@@ -1,0 +1,32 @@
+# Large media and model files: never commit
+assets/
+renders/
+audio/
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.flac
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.exr
+*.safetensors
+*.ckpt
+*.gguf
+*.blend
+*.blend1
+*.drp
+
+# Generated full-film screenplay (built from script/episodes/)
+script/spark-full.fountain
+
+# Allow the reference PDFs
+!production/*.pdf
+!script/*.pdf
+
+# OS / editor
+Thumbs.db
+.DS_Store
