@@ -19,6 +19,11 @@ Decisions deferred until the full script exists. Resolve them here; don't decide
 - [ ] Optional echo: plant a small moment in Episode 1 that mirrors how Universe C differs (e.g. the baby, a choice Mike makes).
 - [ ] Are there others like Mike (returned sparks)? Is the medium one of them?
 
+## Motifs
+- [ ] **Mike's humming tune** (introduced in the pilot kitchen scene). Must be original or public domain (YouTube copyright).
+      Idea: make it a recurring motif. In Universe B, Mike catches himself humming it without knowing why (a spark memory),
+      and in Universe C, Lucy hums it. Compose it with ACE-Step or commission it, then reuse it in the score.
+
 ## Structure
 - [ ] 9-episode beat sheet: where each episode's hook lands.
 - [ ] New subplots that carry the middle episodes (4–7).
