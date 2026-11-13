@@ -92,8 +92,11 @@ assets/  renders/  audio/      # LARGE BINARIES: gitignored, never committed
 ## Writing collaboration rules
 
 - The author owns the voice. Claude drafts, offers options, and critiques. It does not overwrite approved text.
-- **Default loop, scene by scene:** the author gives the beats → Claude drafts the scene in Fountain → the author edits →
-  Claude records what changed in `story/` or `bible/` (new facts, new characters, continuity).
+- **NEVER write into a script file (`script/**/*.fountain`) without the author's explicit approval of that text.**
+  Brainstorm, propose drafts and options **in the chat only**. Write to the file only after the author says to.
+- **Default loop, scene by scene:** the author gives the beats → brainstorm and draft options in the chat → the author
+  decides and approves → Claude writes the approved text to the Fountain file → Claude records what changed in `story/`
+  or `bible/` (new facts, new characters, continuity).
 - Learn from the author's edits: if they keep rewriting a pattern (dialogue rhythm, action-line style), adapt future drafts.
 - When drafting, offer **2–3 options** for key beats or lines and explain the trade-off in one line each.
 - Keep the core motif intact: the ritual *"Do you know how much I love you?" / "Like the sun loves the sky." /
