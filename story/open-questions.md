@@ -7,7 +7,9 @@ Decisions deferred until the full script exists. Resolve them here; don't decide
 - [ ] What exactly is the third universe (Lucy's birthday, new baby)? Is Katie from Universe B "lost"?
 
 ## Characters
-- [ ] The medium: name, backstory, arc, and the price (if any) she pays for revealing the truth.
+- [ ] The medium: backstory, arc, and the price (if any) she pays for revealing the truth.
+      Decided: her name is **Sarah** (40s). First seen at the end of EP01 (#E01-020#), waking from the
+      "family goodbye" dream we assumed was Mike's. Why she dreams it is not explained yet.
 - [ ] Supporting cast to develop: college roommate / co-founder, Jennie's investor father, Mike's assistant, Mike's parents.
 - [ ] Jennie: an antagonist, a sympathetic casualty, or something more?
 
@@ -18,6 +20,7 @@ Decisions deferred until the full script exists. Resolve them here; don't decide
 - [ ] Whose decision creates Universe B (and C)? Does it matter on screen, or is it enough that "a decision was made"?
 - [ ] Optional echo: plant a small moment in Episode 1 that mirrors how Universe C differs (e.g. the baby, a choice Mike makes).
 - [ ] Are there others like Mike (returned sparks)? Is the medium one of them?
+- [ ] Why does Sarah dream Mike's dream (EP01 ending) before they ever meet? What does she see, and how?
 
 ## Motifs
 - [ ] **Mike's humming tune** (introduced in the pilot kitchen scene). Must be original or public domain (YouTube copyright).
