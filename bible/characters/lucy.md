@@ -1,0 +1,29 @@
+# Lucy Davis
+
+Mike and Katie's daughter. 6, about to turn 7. Facts below come from the script; anything not yet decided is under Open.
+
+## Universe A (EP01)
+- Draws with crayons at the kitchen table. Runs to her father when he comes home.
+- Wants to help cook; cuts her fingertip slicing a cucumber with a kid's knife (E01-016).
+- Her half of the ritual with Mike is canon: see [story/motifs.md](../../story/motifs.md).
+- Proud of her injury ("There was blood", "I was very brave"). Polices swearing ("Hey! Language!").
+- Her birthday is the day after Katie returns from the conference. She wants a unicorn cake with a rainbow inside,
+  and there are fifteen goody bags.
+- In the dream (E01-019) she gives a small wave of her band-aid finger.
+
+## Universe C
+- Turning 7 in the final scene.
+
+## Personality and voice
+- Earnest, a little theatrical, very precise about facts that concern her.
+- Sticks her tongue out when she concentrates.
+- Whispers the second half of the ritual.
+
+## Wardrobe and marks
+- A band-aid covered in little cartoon stars on the cut fingertip, from E01-017 on
+  ([star-band-aid](../props/star-band-aid.md)).
+
+## Open
+- Face, hair, clothes. LoRA trigger word.
+- Which hand and finger she cuts.
+- How a 6-year-old's voice is produced.

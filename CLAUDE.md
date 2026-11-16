@@ -62,6 +62,8 @@ bible/
 production/
   high-level-production-plan.pdf
   shotlists/ep01.csv           # one per episode (schema below)
+  breakdowns/ep01.md           # per episode: characters, locations, props, sound cues, risk shots, open decisions
+  voice/ep01-recording-sheet.md  # per episode: every line by character, generated from the Fountain file
   prompts/                     # reusable ComfyUI prompt templates per route
   logs/                        # pilot timings, cost tracking, decisions
 tools/                         # small scripts (Fountain parsing, shot-list generation, exports)

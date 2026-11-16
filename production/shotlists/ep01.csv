@@ -1,0 +1,226 @@
+shot_id,episode,scene,characters,location,props,framing,dialogue,duration_s,route,status,notes
+E01-S001-SH010,1,E01-001,,city-intersection,,EWS; high angle; static,,4,motion,planned,Universe B. Wet asphalt reflecting traffic lights. Empty.
+E01-S001-SH020,1,E01-001,,city-intersection,black-sedan,WS; static,,3,motion,planned,Black sedan glides in. Never show the driver.
+E01-S001-SH030,1,E01-001,,city-intersection,black-sedan,WS; from a distance; static,,3,motion,planned,Headlights from the side then impact. Keep it distant and ambiguous. Hero candidate after local retries.
+E01-S001-SH040,1,E01-001,,city-intersection,black-sedan,MS; static,,4,motion,planned,Glass bursts; metal folds; sedan spins into a light pole. No interior. Hero candidate.
+E01-S001-SH050,1,E01-001,,city-intersection,,CU; low angle; static,,5,motion,planned,Hubcap rolls and wobbles to a stop. Silence.
+E01-S001-SH060,1,E01-001,mike,city-intersection,black-sedan,WS; slow push in,"MIKE (V.O.): See this wrecked car? That's me in there.",8,motion,planned,Sirens rise; red and blue light; cruiser and ambulance at edge of frame. V.O. starts after the crash.
+E01-S001-SH070,1,E01-001,mike,city-intersection,,CU; static,"MIKE (V.O.): Last time, I fought it. Every single second.",8,motion,planned,Broken glass on wet asphalt reflecting red and blue.
+E01-S001-SH080,1,E01-001,mike,city-intersection,black-sedan,MS; static,"MIKE (V.O.): This time... this time I just let go.",8,motion,planned,Wreck against the pole; steam. Windows opaque: no figure inside.
+E01-S001-SH090,1,E01-001,mike,city-intersection,,CU; low angle; static,"MIKE (V.O.): Not sure if that makes me brave, or the biggest idiot alive. / Well. Not really alive.",8,motion,planned,Traffic light cycling over the empty road.
+E01-S001-SH100,1,E01-001,mike,city-intersection,,WS; static,"MIKE (V.O.): This is the second time I've died. / Yeah, the second time! / I don't really believe it myself...",9,motion,planned,Cruiser and ambulance as silhouettes; one or two indistinct figures at most (no crowd). Katie B must not appear.
+E01-S001-SH110,1,E01-001,mike,city-intersection,black-sedan,WS; high angle; static,"MIKE (V.O.): Okay. Enough with the whining. Let me tell you about the people I left behind. The people I love. Both times.",9,motion,planned,
+E01-S001-SH120,1,E01-001,,city-intersection,,WS to EWS; camera rises,,6,motion,planned,Drift up past the streetlights into the night sky. Complex camera: blender-layout or first/last frame.
+E01-S001-SH130,1,E01-001,,city-intersection,,EWS; sky; static,,4,motion,planned,Sky glows ember blue from inside. Transition into the spiritual dimension.
+E01-S002-SH010,1,E01-002,,spiritual-dimension,,EWS; slow drift,,6,motion,planned,Vast web of souls: blue electric cores joined by threads of current. No faces.
+E01-S002-SH020,1,E01-002,,spiritual-dimension,,MS; static,,4,motion,planned,Sparks stream out of a soul and dive into the dark.
+E01-S002-SH030,1,E01-002,,spiritual-dimension,,WS; static,,4,motion,planned,Other sparks stream back up and sink into their souls.
+E01-S002-SH040,1,E01-002,,spiritual-dimension,,MS; tracking up,,4,motion,planned,One spark races upward through the current.
+E01-S002-SH050,1,E01-002,,spiritual-dimension,,CU; static,,2,motion,planned,Spark hits its soul. BOOM. Flash. Do not show where it goes next.
+E01-S002-SH060,1,E01-002,,,,black,,2,post,planned,Smash to black. Two seconds of silence.
+E01-S002-SH070,1,E01-002,,,,title card,,6,post,planned,Blue spark flickers; SPARK burns in ember blue (~1.5 s alone); episode name in white; both fade like an ember. Crackle cut dead into the game jingle.
+E01-S003-SH010,1,E01-003,,halloran-systems/open-office,match3-game,ECU; phone screen,,4,motion,planned,Gem grid; LEVEL COMPLETE! flashes; next level. Screen content can be built as a graphic in post.
+E01-S003-SH020,1,E01-003,mike;jeff,halloran-systems/open-office,match3-game,ECU; thumbs on glass,JEFF (O.S.): Mike.,3,motion,planned,Chain of gems explodes. Fine hand action: keep short.
+E01-S003-SH030,1,E01-003,mike;jeff,halloran-systems/open-office,match3-game,ECU; thumbs on glass,JEFF (O.S.): Mike...,3,motion,planned,The thumbs don't stop.
+E01-S003-SH040,1,E01-003,mike;jeff,halloran-systems/open-office,match3-game,ECU; phone screen,JEFF (O.S.): MIKE!,2,motion,planned,Three gems line up. Almost.
+E01-S003-SH050,1,E01-003,mike;jeff,halloran-systems/open-office,match3-game,MS; two-shot; static,,3,multi-char,planned,Mike jolts in his chair; Jeff behind him with arms crossed. First reveal of both faces.
+E01-S003-SH060,1,E01-003,mike,halloran-systems/open-office,match3-game,MS; static,"MIKE: Jeff! Hey. What's up, man?",3,performance,planned,Drops the phone face-down and spins the chair.
+E01-S003-SH070,1,E01-003,jeff,halloran-systems/open-office,,MCU; low angle,"JEFF: What's up? You're asking me what's up? What's up is I've been standing here for three minutes. Three whole minutes... watching you play that stupid game.",9,dialogue,planned,
+E01-S003-SH080,1,E01-003,jeff,halloran-systems/open-office,,MCU; low angle,"JEFF: You're addicted. You need to seek help. / But not during working hours, of course.",6,dialogue,planned,Jeff grins at his own joke.
+E01-S003-SH090,1,E01-003,mike,halloran-systems/open-office,,CU; static,,2,dialogue,planned,Mike doesn't laugh.
+E01-S003-SH100,1,E01-003,jeff,halloran-systems/open-office,,CU; insert; monitor,,3,motion,planned,Jeff's pointing hand; a screensaver drifts across the monitor.
+E01-S003-SH110,1,E01-003,mike;jeff,halloran-systems/open-office,,MS; two-shot,"MIKE: Really, Jeff? / JEFF: Yes, really. Even your computer gave up and went to sleep. When's the last time you touched this keyboard?",7,multi-char,planned,
+E01-S003-SH120,1,E01-003,mike,halloran-systems/open-office,,CU; static,"MIKE: Define ""touched.""",2,dialogue,planned,Deadpan.
+E01-S003-SH130,1,E01-003,jeff,halloran-systems/open-office,,CU; static,,2,dialogue,planned,Jeff's eyes narrow.
+E01-S003-SH140,1,E01-003,mike,halloran-systems/open-office,,MCU; static,"MIKE: Kidding, I'm kidding. Don't worry, I'm done.",3,dialogue,planned,Breaks into a grin.
+E01-S003-SH150,1,E01-003,mike;jeff,halloran-systems/open-office,,MS; OTS Jeff on Mike,"JEFF: Done with what? / MIKE: The finance module. Finished it this morning. / JEFF: Okay... if you say you finished, then show me.",8,multi-char,planned,
+E01-S003-SH160,1,E01-003,mike,halloran-systems/open-office,,CU; insert; monitor,,3,motion,planned,Mouse tap; screensaver vanishes; test dashboard: column of green; ALL TESTS PASSED. Screen graphic in post.
+E01-S003-SH170,1,E01-003,mike,halloran-systems/open-office,,MCU; static,"MIKE: See? All tests are green. A hundred out of a hundred. You can also connect to the QA environment and check it out yourself.",7,dialogue,planned,
+E01-S003-SH180,1,E01-003,jeff,halloran-systems/open-office,,MS; static,,4,performance,planned,Jeff leans in; squints; scrolls. Nothing to complain about.
+E01-S003-SH190,1,E01-003,jeff,halloran-systems/open-office,,MCU; static,JEFF: Huh. / ...Okay. Fine.,4,dialogue,planned,Grudging. Sighs.
+E01-S003-SH200,1,E01-003,jeff,halloran-systems/open-office,,MCU; static,"JEFF: Look. You know how much I appreciate you, right? When you actually work, nobody here comes close. That's what drives me nuts. Next time you finish something, you come tell me. Don't make me hunt you down. Okay?",12,dialogue,planned,Longest single take in the scene: may need to split in two for InfiniteTalk.
+E01-S003-SH210,1,E01-003,mike,halloran-systems/open-office,,MCU; static,"MIKE: You got it, boss.",2,dialogue,planned,
+E01-S003-SH220,1,E01-003,jeff,halloran-systems/open-office,,MS; Jeff walking away,"JEFF: Oh, and the deck for management. The new features thing. Don't forget. / Thursday!",6,performance,planned,Last word called over his shoulder.
+E01-S003-SH230,1,E01-003,mike,halloran-systems/open-office,match3-game,MS; static,MIKE: Thursday. Thursday. I'm on it.,6,performance,planned,Turns back; picks up the phone; leans back in the chair.
+E01-S003-SH240,1,E01-003,mike,halloran-systems/open-office,match3-game,CU; frontal; static,,5,dialogue,planned,Hold on his face lit by the phone. We don't see the screen.
+E01-S003-SH250,1,E01-003,liam,halloran-systems/open-office,,MS; static,LIAM: Lunch?,2,dialogue,planned,Liam leans over the cubicle wall.
+E01-S003-SH260,1,E01-003,mike;liam,halloran-systems/open-office,,MS; two-shot,"MIKE: Yeah, lunch. Let's go.",5,multi-char,planned,Mike pockets the phone and gets up; they head out together.
+E01-S004-SH010,1,E01-004,mike;liam;olivia,lucas-bistro,,WS; static,,4,multi-char,planned,Half-empty bistro; midday sun through the front window; three at a corner table.
+E01-S004-SH020,1,E01-004,mike;liam,lucas-bistro,,MS; two-shot,,3,multi-char,planned,Liam steals a fry off Mike's plate.
+E01-S004-SH030,1,E01-004,olivia,lucas-bistro,,MCU; static,"OLIVIA: So Jeff caught you playing your boring game again, huh?",4,dialogue,planned,Party wristband visible on her wrist.
+E01-S004-SH040,1,E01-004,mike,lucas-bistro,,MCU; static,MIKE: No. He caught me being done.,3,dialogue,planned,
+E01-S004-SH050,1,E01-004,olivia,lucas-bistro,,MCU; static,"OLIVIA: You know the rest of us actually have to work, right?",3,dialogue,planned,
+E01-S004-SH060,1,E01-004,mike,lucas-bistro,,MCU; static,MIKE: Says the girl still wearing her wristband from last night's party.,4,dialogue,planned,
+E01-S004-SH070,1,E01-004,olivia,lucas-bistro,,MCU; static,OLIVIA: It was an amazing party. At least the parts I remember. You should come next time.,6,dialogue,planned,
+E01-S004-SH080,1,E01-004,mike,lucas-bistro,,MCU; static,MIKE: I think my party days are over.,5,performance,planned,Pushes his food around the plate.
+E01-S004-SH090,1,E01-004,mike,lucas-bistro,,CU; static,MIKE: Can I tell you something stupid? / I'm bored. Like... all the time.,7,dialogue,planned,
+E01-S004-SH100,1,E01-004,liam,lucas-bistro,,MCU; static,"LIAM: Bored. / Beautiful wife. Two great kids. A house. A job you can do in your sleep. Which you do. / Man, you've got it made.",10,performance,planned,Counts on his fingers.
+E01-S004-SH110,1,E01-004,mike,lucas-bistro,,MCU; static,MIKE: I know. I know it is. That's what makes it stupid. Hard for me to explain.,7,dialogue,planned,Ends looking out the window.
+E01-S004-SH120,1,E01-004,mike,lucas-bistro,,CU; profile at the window,"MIKE: You ever get the feeling you missed something? / Not a thing. Just... you know... something. Like you were supposed to be somewhere else. / Does that make sense?",13,dialogue,planned,Thematic core of the scene. May need to split in two takes.
+E01-S004-SH130,1,E01-004,olivia,lucas-bistro,,MCU; static,"OLIVIA: Okay. So do something. Anything. / You could go skydiving. Surfing. Learn Japanese. Take a pottery class. I don't know. Anything!",9,performance,planned,Counting; rapid-fire.
+E01-S004-SH140,1,E01-004,liam,lucas-bistro,,MCU; static,LIAM: He'd get bored of pottery in a week.,3,dialogue,planned,
+E01-S004-SH150,1,E01-004,olivia,lucas-bistro,,CU; static,OLIVIA: Then find the thing you wouldn't get bored of.,4,dialogue,planned,To Mike; serious now.
+E01-S004-SH160,1,E01-004,mike,lucas-bistro,,MCU; static,,3,dialogue,planned,Laughs it off. Doesn't answer.
+E01-S004-SH170,1,E01-004,,lucas-bistro,lock-screen-selfie,CU; insert; phone on table,,4,motion,planned,Phone buzzes; lock screen: Katie; Lucy and Joe in one selfie; laughing. No push-in.
+E01-S004-SH180,1,E01-004,mike,lucas-bistro,,CU; static,,4,dialogue,planned,Looks a beat too long. Small smile. No music sting.
+E01-S005-SH010,1,E01-005,mike,halloran-systems/open-office,,MS; static,,4,performance,planned,Late afternoon light. Mike actually working; typing.
+E01-S005-SH020,1,E01-005,,halloran-systems/open-office,,CU; insert; monitor,,3,motion,planned,Charts and graphs shift; he drags one into place. Screen graphic in post.
+E01-S005-SH030,1,E01-005,,halloran-systems/open-office,,ECU; insert; screen corner,,2,post,planned,Clock: 4:59 PM.
+E01-S005-SH040,1,E01-005,mike,halloran-systems/open-office,,CU; static,,2,dialogue,planned,He watches the clock.
+E01-S005-SH050,1,E01-005,,halloran-systems/open-office,,ECU; insert; screen corner,,1,post,planned,Clock: 5:00 PM.
+E01-S005-SH060,1,E01-005,mike,halloran-systems/open-office,,MS; static,,4,performance,planned,Saves; locks; stands in one motion; grabs the jacket and shrugs it on.
+E01-S005-SH070,1,E01-005,mike;sam,halloran-systems/open-office,,WS; tracking,"MIKE: Night, Sam. / SAM (O.S.): Night, Mike. / MIKE: See you tomorrow.",6,performance,planned,Threads between desks toward the elevators. Coworkers as backs or partial figures only (no crowd). Sam is voice only.
+E01-S005-SH080,1,E01-005,mike;liam,halloran-systems/open-office,,MS; two-shot,"LIAM: That's it? / MIKE: Yeah. I'm done for the day. / LIAM: Alright. See you tomorrow, man. / MIKE: Bye, man. Take care.",8,multi-char,planned,At Liam's cubicle.
+E01-S005-SH090,1,E01-005,mike,halloran-systems/elevator,,MS; static,,4,performance,planned,Steps in; turns around; punches a button.
+E01-S005-SH100,1,E01-005,mike,halloran-systems/elevator,,MS; frontal; static,,3,motion,planned,The doors slide shut on him.
+E01-S006-SH010,1,E01-006,,halloran-systems/garage,company-sedan,WS; static,,4,motion,planned,Elevator doors open on rows of identical silver sedans. blender-layout: recurring location and repeated geometry.
+E01-S006-SH020,1,E01-006,,halloran-systems/garage,company-sedan,CU; static,,2,motion,planned,The same small company logo on every door.
+E01-S006-SH030,1,E01-006,mike,halloran-systems/garage,,MS; static,MIKE: Where the hell did I park today?,5,performance,planned,Steps out; stops; looks left; looks right.
+E01-S006-SH040,1,E01-006,mike,halloran-systems/garage,key-fob,CU; insert,,2,motion,planned,Presses the fob. Nothing.
+E01-S006-SH050,1,E01-006,mike,halloran-systems/garage,key-fob;company-sedan,WS; static,,4,motion,planned,Walks right down a row pressing the fob. Click. Click.
+E01-S006-SH060,1,E01-006,mike,halloran-systems/garage,key-fob;company-sedan,WS; static; mirrored,,4,motion,planned,Jump cut: same framing; mirrored direction. Comic rhythm.
+E01-S006-SH070,1,E01-006,mike,halloran-systems/garage,,MS; static,,3,motion,planned,Stops beside a concrete pillar: big painted sign P3.
+E01-S006-SH080,1,E01-006,mike,halloran-systems/garage,,CU; static,MIKE: Wait. Damn. I'm on the wrong floor.,4,dialogue,planned,Stares at the sign.
+E01-S007-SH010,1,E01-007,mike,halloran-systems/elevator,,MS; frontal; static,,4,motion,planned,Alone; hands in pockets; floor numbers tick by.
+E01-S008-SH010,1,E01-008,,halloran-systems/garage,company-sedan,WS; static,,3,motion,planned,Doors open on level 4: the same rows. Reuse the level 3 layout with P4 signage.
+E01-S008-SH020,1,E01-008,mike,halloran-systems/garage,key-fob,MS; static,,2,motion,planned,Steps out; presses the fob.
+E01-S008-SH030,1,E01-008,,halloran-systems/garage,company-sedan,WS; static,,3,motion,planned,Far down a row one car chirps; lights flash.
+E01-S008-SH040,1,E01-008,mike,halloran-systems/garage,company-sedan,WS; static,,4,motion,planned,Walks to it; opens the door; gets in.
+E01-S009-SH010,1,E01-009,mike,company-sedan/interior,,MS; passenger side,,4,performance,planned,Drops into the seat; pushes the start button; dashboard lights up.
+E01-S009-SH020,1,E01-009,mike,company-sedan/interior,match3-game,CU; insert,,2,motion,planned,Clips the phone into the dashboard mount. Fine hand action: keep short.
+E01-S009-SH030,1,E01-009,,company-sedan/interior,,CU; insert; center screen,,3,motion,planned,Map; taps HOME; blue route line draws across the city. Screen graphic in post.
+E01-S009-SH040,1,E01-009,mike,company-sedan/interior,,MCU; frontal,,3,dialogue,planned,Taps again; music kicks in; he nods along. Music cue starts here.
+E01-S009-SH050,1,E01-009,,halloran-systems/garage,company-sedan,WS; static,,6,motion,planned,Backs out; swings down the ramp past the rows toward evening light. blender-layout.
+E01-S010-SH010,1,E01-010,mike,company-sedan/interior,,MCU; frontal,,5,performance,planned,Driving; singing under his breath; drumming on the wheel. Small smile.
+E01-S010-SH020,1,E01-010,,city-streets,company-sedan,WS; tracking,,4,motion,planned,Streets slide by.
+E01-S010-SH030,1,E01-010,,city-streets,,MS; POV through windshield,,2,motion,planned,Traffic light ahead turns red.
+E01-S010-SH040,1,E01-010,mike,company-sedan/interior,,MS; passenger side,,4,performance,planned,Rolls to a stop at the line; waits; drums on the wheel.
+E01-S011-SH010,1,E01-011,,city-intersection,,CU; low angle,,2,motion,planned,The light turns green. No music: street sound only.
+E01-S011-SH020,1,E01-011,,city-intersection,company-sedan,WS; static,,3,motion,planned,Same angle as E01-S001-SH020. Silver sedan eases forward.
+E01-S011-SH030,1,E01-011,,city-intersection,,WS; static,,2,motion,planned,Same angle as E01-S001-SH030. Headlights from the side; coming fast.
+E01-S011-SH040,1,E01-011,,city-intersection,company-sedan,CU; rear of car,,2,motion,planned,Brake lights flare; tires shriek.
+E01-S011-SH050,1,E01-011,,city-intersection,company-sedan,WS; static,,3,motion,planned,Sedan jerks to a stop inches short; the other car tears across its bumper and is gone. Hero candidate.
+E01-S011-SH060,1,E01-011,,city-intersection,company-sedan,WS; static,,3,motion,planned,Silence. The sedan alone in the intersection.
+E01-S012-SH010,1,E01-012,mike,company-sedan/interior,,CU; insert; hands on wheel,,3,motion,planned,White-knuckled grip. Music still playing; cheerful and oblivious.
+E01-S012-SH020,1,E01-012,mike,company-sedan/interior,,MCU; frontal,MIKE: What the hell?! / ...Okay. Okay. I'm okay. I'm okay. Yeah... I'm okay.,8,performance,planned,Staring at the empty intersection.
+E01-S012-SH030,1,E01-012,mike,company-sedan/interior,,MCU; frontal,"MIKE: Holy shit, that was close. Wow. / I could've died.",6,dialogue,planned,Check YouTube profanity policy before recording.
+E01-S012-SH040,1,E01-012,mike,company-sedan/interior,,CU; frontal,,4,performance,planned,Long shaky exhale; then a small disbelieving laugh.
+E01-S012-SH050,1,E01-012,mike,company-sedan/interior,,CU; insert,,2,motion,planned,Turns the music down.
+E01-S012-SH060,1,E01-012,,city-intersection,company-sedan,WS; static,,3,motion,planned,Drives on; carefully.
+E01-S013-SH010,1,E01-013,,davis-house/street,,WS; static,,4,motion,planned,Quiet street; trimmed lawns; kids' bikes in driveways. Evening.
+E01-S013-SH020,1,E01-013,,davis-house/street,company-sedan,WS; static,,4,motion,planned,Sedan turns into the driveway and stops in front of a modest two-story house.
+E01-S014-SH010,1,E01-014,mike,davis-house/driveway,company-sedan,MS; static,,4,performance,planned,Gets out; looks at the house for a beat.
+E01-S014-SH020,1,E01-014,mike,davis-house/driveway,,WS; from behind,,4,motion,planned,Walks up the path; reaches for the front door.
+E01-S015-SH010,1,E01-015,mike,davis-house/living-room,,MS; static,,5,performance,planned,Comes in; keys in the bowl by the door; jacket on the hook. Jacket stays off for the rest of the evening.
+E01-S015-SH020,1,E01-015,joe,davis-house/living-room,,MS; static,,3,motion,planned,Joe on the couch; headset; controller; leaning into the game. TV glow; game audio.
+E01-S015-SH030,1,E01-015,mike;joe,davis-house/living-room,,MS; two-shot,"MIKE: Hey, buddy. / Joe.",5,multi-char,planned,Nothing. Nothing.
+E01-S015-SH040,1,E01-015,mike;joe,davis-house/living-room,,MS; two-shot,MIKE: Earth to Joe...,4,multi-char,planned,Waves a hand at the edge of Joe's vision.
+E01-S015-SH050,1,E01-015,mike;joe,davis-house/living-room,,WS; static,,3,multi-char,planned,Mike steps in front of the TV.
+E01-S015-SH060,1,E01-015,joe,davis-house/living-room,,MS; static,,3,performance,planned,"Without looking away, Joe leans around him and flicks a hand. Signature gesture: must match the dream (E01-S019-SH040). Record phone reference."
+E01-S015-SH070,1,E01-015,mike,davis-house/living-room,,MCU; static,,3,dialogue,planned,Shakes his head; smiling; steps aside.
+E01-S016-SH010,1,E01-016,katie;lucy,davis-house/kitchen,,WS; static,,4,multi-char,planned,Katie at the stove stirring a pot; Lucy at the kitchen table over a drawing; crayons everywhere. blender-layout: recurring location.
+E01-S016-SH020,1,E01-016,mike,davis-house/kitchen,,MS; static,"MIKE: Hi, girls!",2,dialogue,planned,In the doorway.
+E01-S016-SH030,1,E01-016,lucy,davis-house/kitchen,,MS; static,LUCY: Daddy!,3,performance,planned,Drops her crayon and runs.
+E01-S016-SH040,1,E01-016,mike;lucy,davis-house/kitchen,,MS; two-shot,,5,performance,planned,She throws herself at his legs; he scoops her up; hugs her; sets her down. Record phone reference.
+E01-S016-SH050,1,E01-016,mike;katie,davis-house/kitchen,,MS; two-shot,,3,multi-char,planned,He crosses to Katie and kisses her.
+E01-S016-SH060,1,E01-016,mike;katie,davis-house/kitchen,,MS; two-shot,MIKE: What's for dinner? / KATIE: Chicken and potatoes. And the bread's almost done. Smell that?,6,multi-char,planned,
+E01-S016-SH070,1,E01-016,mike,davis-house/kitchen,,MCU; static,"MIKE: Mmm. Yep, smells amazing. / Want me to make the salad?",5,dialogue,planned,Breathing it in.
+E01-S016-SH080,1,E01-016,katie,davis-house/kitchen,dish-towel,MCU; static,"KATIE: Please. Be my guest. I'm going to throw in a load of laundry. Your underwear is waiting for me in there. / Keep an eye on the food, okay?",9,dialogue,planned,Hands him the dish towel on the last line.
+E01-S016-SH090,1,E01-016,mike;katie,davis-house/kitchen,dish-towel,MS; static,,3,multi-char,planned,Mike slings the towel over his shoulder; Katie heads out.
+E01-S016-SH100,1,E01-016,lucy,davis-house/kitchen,,MCU; static,LUCY: Can I help?,2,dialogue,planned,
+E01-S016-SH110,1,E01-016,mike,davis-house/kitchen,dish-towel,MCU; static,"MIKE: Sure you can, honey.",2,dialogue,planned,
+E01-S016-SH120,1,E01-016,mike;lucy,davis-house/kitchen,step-stool;kid-knife,MS; two-shot,,6,multi-char,planned,Sets the step stool at the counter; Lucy climbs up; he gives her a small cutting board; a kid's knife and a cucumber. Keep hands loose in frame.
+E01-S016-SH130,1,E01-016,mike;lucy,davis-house/kitchen,step-stool;kid-knife,MS; two-shot,"MIKE: Careful, okay? Do it slowly. / LUCY: I'll be careful, Daddy. Don't worry.",5,multi-char,planned,
+E01-S016-SH140,1,E01-016,mike,davis-house/kitchen,dish-towel,MS; static,,2,motion,planned,Mike turns back to the stove.
+E01-S016-SH150,1,E01-016,mike;lucy,davis-house/kitchen,,WS; static,,3,multi-char,planned,PILOT. Warm lived-in kitchen; golden evening light; dinner in progress.
+E01-S016-SH160,1,E01-016,,davis-house/kitchen,,CU; insert; oven window,,2,motion,planned,PILOT. Bread rising and turning golden.
+E01-S016-SH170,1,E01-016,mike,davis-house/kitchen,dish-towel,MS; static,,3,performance,planned,PILOT. Stirs the pot; humming. Humming tune must be original or public domain.
+E01-S016-SH180,1,E01-016,lucy,davis-house/kitchen,step-stool;kid-knife,MS; static,,3,performance,planned,PILOT. Slicing the cucumber; smiling at the humming; tongue poking out.
+E01-S016-SH190,1,E01-016,lucy,davis-house/kitchen,kid-knife,ECU; insert,,2,motion,planned,PILOT. Slice. Slice. She yanks her hand back; a tiny bead of red on the fingertip. Fine hand action: keep short.
+E01-S016-SH200,1,E01-016,lucy,davis-house/kitchen,,CU; static,,2,performance,planned,PILOT. Lip trembles; then tears; sudden and loud.
+E01-S016-SH210,1,E01-016,mike,davis-house/kitchen,dish-towel,MS; static,,2,performance,planned,PILOT. Humming stops; he turns; two steps and he's beside her.
+E01-S016-SH220,1,E01-016,mike;lucy,davis-house/kitchen,,MS; two-shot; eye level with Lucy,,4,performance,planned,PILOT. Crouches; takes her hand; looks; kisses the fingertip. Wan-Animate-2 from phone video.
+E01-S016-SH230,1,E01-016,mike;lucy,davis-house/kitchen,,CU; two-shot,,2,performance,planned,PILOT. Cups her wet cheeks in both hands.
+E01-S016-SH240,1,E01-016,mike,davis-house/kitchen,,MCU; static,"MIKE: Lucy, don't cry. Do you know how much I love you? Do you?",4,dialogue,planned,PILOT. Ritual: wording is canon (story/motifs.md).
+E01-S016-SH250,1,E01-016,lucy,davis-house/kitchen,,MCU; static,"LUCY: How much, Daddy?",2,dialogue,planned,PILOT. Sniffling.
+E01-S016-SH260,1,E01-016,mike,davis-house/kitchen,,MCU; static,MIKE: Like the sun loves the sky.,3,dialogue,planned,PILOT.
+E01-S016-SH270,1,E01-016,lucy,davis-house/kitchen,,CU; static,"LUCY: And will you always love me, Daddy?",3,dialogue,planned,PILOT. Her crying slows; she leans in; whispering.
+E01-S016-SH280,1,E01-016,mike,davis-house/kitchen,,MCU; static,MIKE: Always always!,2,dialogue,planned,PILOT.
+E01-S016-SH290,1,E01-016,lucy,davis-house/kitchen,,CU; static,LUCY: I love it when you tell me how much you love me.,3,dialogue,planned,PILOT. Whispering.
+E01-S016-SH300,1,E01-016,mike,davis-house/kitchen,,MCU; static,MIKE: I know you do. I love it too.,2,dialogue,planned,PILOT.
+E01-S016-SH310,1,E01-016,mike;lucy,davis-house/kitchen,,MS; two-shot,,2,performance,planned,PILOT. She throws her arms around his neck; he hugs her tight.
+E01-S016-SH320,1,E01-016,mike;lucy,davis-house/kitchen,,MCU; on Lucy over Mike's shoulder; frontal,,4,performance,planned,PILOT. Tears still wet; her smile slowly returns.
+E01-S017-SH010,1,E01-017,mike;joe;lucy,davis-house/dining-nook,,WS; static,,3,multi-char,planned,Table set; three waiting. Establishing wide: reuse as the master plate for the closing wide.
+E01-S017-SH020,1,E01-017,lucy,davis-house/dining-nook,star-band-aid,CU; static,,3,motion,planned,Lucy holds up her finger to admire the band-aid with little cartoon stars.
+E01-S017-SH030,1,E01-017,katie,davis-house/dining-nook,bread,MS; static,KATIE: Okay. Eat.,5,performance,planned,Carries in the bread on a wooden board; still steaming; sets it down; sits.
+E01-S017-SH040,1,E01-017,,davis-house/dining-nook,bread,CU; top-down on table,,3,motion,planned,Hands everywhere at once. Many hands: risk shot; keep very short or motion-blurred.
+E01-S017-SH050,1,E01-017,katie,davis-house/dining-nook,,MCU; static,KATIE: So. How was everyone's day?,3,dialogue,planned,
+E01-S017-SH060,1,E01-017,lucy,davis-house/dining-nook,star-band-aid,MCU; static,LUCY: I got hurt.,2,dialogue,planned,Holding up her finger.
+E01-S017-SH070,1,E01-017,mike;katie,davis-house/dining-nook,,MS; two-shot,MIKE: A scratch. A tiny scratch.,4,multi-char,planned,Katie looks at Mike first.
+E01-S017-SH080,1,E01-017,lucy,davis-house/dining-nook,,MCU; static,LUCY: There was blood.,2,dialogue,planned,
+E01-S017-SH090,1,E01-017,mike,davis-house/dining-nook,,MCU; static,MIKE: I wouldn't call it blood... One drop.,3,dialogue,planned,
+E01-S017-SH100,1,E01-017,lucy,davis-house/dining-nook,,MCU; static,LUCY: I was very brave.,2,dialogue,planned,Proudly.
+E01-S017-SH110,1,E01-017,katie,davis-house/dining-nook,,MCU; static,"KATIE: I'm sure you were, sweetheart. / Joe? School?",4,dialogue,planned,Turns to Joe on the second line.
+E01-S017-SH120,1,E01-017,joe;katie,davis-house/dining-nook,,MCU; static,JOE: Fine. / KATIE (O.S.): Fine what? / JOE: Fine good.,5,dialogue,planned,Mouth full.
+E01-S017-SH130,1,E01-017,mike,davis-house/dining-nook,,MCU; static,MIKE: Wow. Don't overwhelm us with all of these details.,4,dialogue,planned,
+E01-S017-SH140,1,E01-017,joe,davis-house/dining-nook,,MCU; static,"JOE: Okay, I got an A on the science test.",4,dialogue,planned,Grins despite himself.
+E01-S017-SH150,1,E01-017,mike;joe,davis-house/dining-nook,,MS; two-shot,MIKE: That's my boy!,4,multi-char,planned,High five; Joe a little too cool for it. Hand contact: risk shot.
+E01-S017-SH160,1,E01-017,katie,davis-house/dining-nook,,MCU; static,KATIE: And you?,2,dialogue,planned,To Mike.
+E01-S017-SH170,1,E01-017,mike,davis-house/dining-nook,,MCU; static,MIKE: Honestly? Not my best day. / Jeff caught me playing on my phone.,6,dialogue,planned,
+E01-S017-SH180,1,E01-017,joe,davis-house/dining-nook,,MCU; static,JOE: Busted.,2,dialogue,planned,
+E01-S017-SH190,1,E01-017,katie,davis-house/dining-nook,,MCU; static,KATIE: Again? Mike... Really?,3,dialogue,planned,
+E01-S017-SH200,1,E01-017,mike,davis-house/dining-nook,,MCU; static,"MIKE: I was done! I'm not a robot, you know... Besides, this damn game... I can't stop.",7,dialogue,planned,
+E01-S017-SH210,1,E01-017,lucy,davis-house/dining-nook,,MCU; static,LUCY: Hey! Language!,2,dialogue,planned,Scolding.
+E01-S017-SH220,1,E01-017,katie,davis-house/dining-nook,,MCU; static,"KATIE: Yes, Mike. Language!",2,dialogue,planned,Smiling; shaking her head.
+E01-S017-SH230,1,E01-017,mike,davis-house/dining-nook,,MCU; static,"MIKE: Sorry, sorry. It slipped. / Anyway, and then, on the way home, some guy ran a red light. Came out of nowhere. Missed me by this much.",10,performance,planned,Ends holding two fingers an inch apart. May need to split in two takes.
+E01-S017-SH240,1,E01-017,mike;katie;joe;lucy,davis-house/dining-nook,,WS; static,,3,multi-char,planned,The table goes quiet; Katie puts down her fork.
+E01-S017-SH250,1,E01-017,katie,davis-house/dining-nook,,CU; static,KATIE: Were you hurt?,2,dialogue,planned,
+E01-S017-SH260,1,E01-017,mike,davis-house/dining-nook,,MCU; static,"MIKE: No, no. I'm fine. / I mean, I peed my pants a little. But other than that, I'm fine.",7,dialogue,planned,
+E01-S017-SH270,1,E01-017,joe,davis-house/dining-nook,,MCU; static,JOE: Dad! Gross!,2,dialogue,planned,
+E01-S017-SH280,1,E01-017,katie;joe;lucy,davis-house/dining-nook,,WS; static,,3,multi-char,planned,The kids crack up; Katie laughs too; shaking her head; relieved.
+E01-S017-SH290,1,E01-017,lucy,davis-house/dining-nook,star-band-aid,MCU; static,LUCY: But I got hurt.,2,dialogue,planned,Holding up her finger.
+E01-S017-SH300,1,E01-017,mike;lucy,davis-house/dining-nook,,MS; two-shot,"MIKE: That's right, honey. You got hurt. / And you were a lot braver than me.",6,multi-char,planned,Lucy nods; satisfied.
+E01-S017-SH310,1,E01-017,mike,davis-house/dining-nook,,MCU; static,MIKE: And how about you? How many strangers' mouths today?,4,dialogue,planned,To Katie.
+E01-S017-SH320,1,E01-017,katie,davis-house/dining-nook,,MCU; static,KATIE: Twelve mouths and one of them actually bit me.,4,dialogue,planned,
+E01-S017-SH330,1,E01-017,mike,davis-house/dining-nook,,MCU; static,"MIKE: Your mother had her hands in twelve mouths today, and then she made us bread.",5,dialogue,planned,To the kids.
+E01-S017-SH340,1,E01-017,lucy,davis-house/dining-nook,bread,CU; static,LUCY: ...Did you wash them?,3,dialogue,planned,Freezes mid-bite.
+E01-S017-SH350,1,E01-017,katie,davis-house/dining-nook,,MCU; static,KATIE: No. Dentists are only allowed to wash their hands once a week.,5,dialogue,planned,Deadpan.
+E01-S017-SH360,1,E01-017,joe,davis-house/dining-nook,,MCU; static,JOE: Ewww!,2,dialogue,planned,
+E01-S017-SH370,1,E01-017,mike;katie;joe;lucy,davis-house/dining-nook,,WS; static,,5,multi-char,planned,The whole table cracks up; warm light. Hold a beat. Four characters: hardest multi-char shot of the episode.
+E01-S018-SH010,1,E01-018,katie,davis-house/master-bedroom,,MS; static,,3,performance,planned,Katie on the edge of the bed in pajamas; brushing her hair.
+E01-S018-SH020,1,E01-018,mike,davis-house/master-bedroom,,MS; through the bathroom door,MIKE: Dud you pack fuh the confuhrence yet?,4,performance,planned,Brushing his teeth; mouth full of foam.
+E01-S018-SH030,1,E01-018,katie,davis-house/master-bedroom,,MCU; static,KATIE: What?,2,dialogue,planned,
+E01-S018-SH040,1,E01-018,mike,davis-house/master-bedroom,,MS; in the doorway,MIKE: Did you pack for the conference yet?,3,performance,planned,Pulls the toothbrush out and leans into the doorway.
+E01-S018-SH050,1,E01-018,katie;mike,davis-house/master-bedroom,,MCU; on Katie,KATIE: Not yet. I'll pack tomorrow. / MIKE (O.S.): So what's this one about?,5,dialogue,planned,Mike brushes; spits; rinses (O.S. sound).
+E01-S018-SH060,1,E01-018,katie,davis-house/master-bedroom,,MCU; static,KATIE: New technologies in dentistry. It's actually supposed to be really interesting. I hope...,6,dialogue,planned,
+E01-S018-SH070,1,E01-018,mike,davis-house/master-bedroom,,MS; static,MIKE: Let me guess. Robots. In the mouth.,4,performance,planned,Comes out wiping his mouth with a towel.
+E01-S018-SH080,1,E01-018,katie,davis-house/master-bedroom,,MCU; static,"KATIE: Kind of, yes.",2,dialogue,planned,
+E01-S018-SH090,1,E01-018,mike,davis-house/master-bedroom,,MCU; static,MIKE: Nope. Never letting you near me again.,3,dialogue,planned,
+E01-S018-SH100,1,E01-018,mike;katie,davis-house/master-bedroom,,WS; static,,3,multi-char,planned,She throws a pillow; he catches it. Object passing between characters: risk shot.
+E01-S018-SH110,1,E01-018,katie,davis-house/master-bedroom,,MCU; static,"KATIE: Oh, and don't forget. Lucy's birthday is the day after I get back. So while I'm gone, you're on the cake, the balloons, and the goody bags.",9,dialogue,planned,
+E01-S018-SH120,1,E01-018,mike;katie,davis-house/master-bedroom,,MS; two-shot,MIKE: Goody bags? / KATIE: Fifteen of them. / MIKE: Wonderful. Just wonderful.,6,multi-char,planned,Last line flat.
+E01-S018-SH130,1,E01-018,katie,davis-house/master-bedroom,,MCU; static,KATIE: And she wants a unicorn cake. With a rainbow inside.,4,dialogue,planned,
+E01-S018-SH140,1,E01-018,mike;katie,davis-house/master-bedroom,,MS; two-shot,MIKE: Rainbow inside? / KATIE: You heard me.,3,multi-char,planned,
+E01-S018-SH150,1,E01-018,mike,davis-house/master-bedroom,,MCU; static,MIKE: Six years old and already high-maintenance.,3,dialogue,planned,
+E01-S018-SH160,1,E01-018,katie,davis-house/master-bedroom,,MCU; static,KATIE: Wonder where she gets it.,2,dialogue,planned,
+E01-S018-SH170,1,E01-018,mike;katie,davis-house/master-bedroom,,MS; two-shot,,3,multi-char,planned,Mike sits on the bed; Katie sets her brush on the nightstand.
+E01-S018-SH180,1,E01-018,katie,davis-house/master-bedroom,,MCU; static,"KATIE: Give me a head start, okay? Let me fall asleep first. I can't take the snoring tonight.",6,dialogue,planned,
+E01-S018-SH190,1,E01-018,mike,davis-house/master-bedroom,,MCU; static,"MIKE: Sure, sure. Whatever you say.",3,dialogue,planned,
+E01-S018-SH200,1,E01-018,mike;katie,davis-house/master-bedroom,,MS; two-shot,,5,multi-char,planned,She kisses him; they lie back on their own sides; Katie switches off the lamp.
+E01-S018-SH210,1,E01-018,mike;katie,davis-house/master-bedroom,,MS; top-down; dark,,3,motion,planned,Darkness. A beat. Mike snores; instantly; loud.
+E01-S018-SH220,1,E01-018,katie,davis-house/master-bedroom,,CU; top-down; dark,,3,dialogue,planned,Katie opens her eyes. Stares at the ceiling.
+E01-S018-SH230,1,E01-018,mike;katie,davis-house/master-bedroom,,CU; two-shot; dark,,4,performance,planned,She reaches over and strokes his hair: part frustration; part tenderness. Cut straight from here into the dream.
+E01-S019-SH010,1,E01-019,,dream,,WS; static,,3,motion,planned,Void of soft warm light; colors bleed like wet paint. NOT the blue of the spiritual dimension.
+E01-S019-SH020,1,E01-019,katie;joe;lucy,dream,,MS; static,,4,multi-char,planned,The three stand close together the way they sat at dinner. Smiling.
+E01-S019-SH030,1,E01-019,katie,dream,,MCU; static,,3,performance,planned,Katie waves goodbye with a sad gentle smile.
+E01-S019-SH040,1,E01-019,joe,dream,,MCU; static,,2,performance,planned,Joe: the same flick of the hand as E01-S015-SH060.
+E01-S019-SH050,1,E01-019,lucy;mike,dream,star-band-aid,CU; static,MIKE (O.S.): No... No! Don't go! Stay!,3,performance,planned,Lucy: a small wave of her band-aid finger.
+E01-S019-SH060,1,E01-019,mike,dream,,MS; profile,MIKE: Don't go!,4,performance,planned,Mike reaches for them; his hand never gets closer. Mike is seen: Sarah dreams about him.
+E01-S019-SH070,1,E01-019,mike;katie;joe;lucy,dream,,WS to EWS; camera pulls back,,6,motion,planned,They haven't moved; it's Mike who drifts backward and upward. Complex camera: blender-layout; hero candidate.
+E01-S019-SH080,1,E01-019,mike;katie;joe;lucy,dream,,EWS; static,MIKE: Please! Please!,4,motion,planned,The family tiny in the warm light; still waving.
+E01-S019-SH090,1,E01-019,,,,black,,2,post,planned,Darkness.
+E01-S020-SH010,1,E01-020,sarah,sarahs-bedroom,,MS; dark; static,,3,performance,planned,Sharp gasp; a figure jolts upright in bed. Keep it dark and ambiguous: we assume it's Mike.
+E01-S020-SH020,1,E01-020,sarah,sarahs-bedroom,,CU; insert,,2,motion,planned,A trembling hand finds the lamp. Click.
+E01-S020-SH030,1,E01-020,sarah,sarahs-bedroom,,MCU; static,,4,performance,planned,It isn't Mike. Sarah; drenched in cold sweat; breathing hard. First reveal of her face and the room.
+E01-S020-SH040,1,E01-020,sarah,sarahs-bedroom,,CU; static,SARAH: Oh no.,4,dialogue,planned,Stares at nothing. Whispering.
+E01-S020-SH050,1,E01-020,,,,black,,3,post,planned,Cut to black. END OF EPISODE 1.
