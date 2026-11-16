@@ -87,7 +87,9 @@ assets/  renders/  audio/      # LARGE BINARIES: gitignored, never committed
   and **Universe B** (startup-CEO life, Jennie). A third world appears in the finale.
 - Write for animation and AI generation: **visual, concrete action lines**; short shots; avoid long
   unbroken camera moves, crowds, and fine hand interactions unless the scene needs them.
-- Target ~1 page ≈ 1 minute; each episode ≈ 10 pages and ends on a hook.
+- Target ~1 page ≈ 1 minute; each episode ≈ 10 pages and ends on a hook. The 10 minutes are a guideline,
+  not a cap: the author is fine with an episode running longer when the story needs it. Don't flag length
+  alone as a problem; flag pacing.
 
 ## Writing collaboration rules
 

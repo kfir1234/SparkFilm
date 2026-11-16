@@ -29,4 +29,7 @@ Decisions deferred until the full script exists. Resolve them here; don't decide
 
 ## Structure
 - [ ] 9-episode beat sheet: where each episode's hook lands.
+      Decided (2026-11-16): Mike does not die in EP01. After EP01 there will be **at least 2 more scenes with
+      Katie in Universe A** before the first crash. EP01 keeps Katie as written; her deeper character moment
+      belongs in those scenes. Their content is not decided yet.
 - [ ] New subplots that carry the middle episodes (4–7).
