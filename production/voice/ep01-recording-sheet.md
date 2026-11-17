@@ -1,17 +1,17 @@
 # EP01 Recording Sheet
 
-Generated from `script/episodes/ep01.fountain` on 2026-11-16. A snapshot: regenerate after any script change.
+Generated from `script/episodes/ep01.fountain` on 2026-11-16, updated 2026-11-17 for the kids' room scene (E01-019) and the renumbering. A snapshot: regenerate after any script change.
 Lines are verbatim. Parentheticals are acting directions, not spoken. Scene numbers match the shot list.
 
 | Character | Cues | Spoken words |
 |---|---|---|
-| MIKE | 59 | 520 |
+| MIKE | 61 | 530 |
 | JEFF | 9 | 128 |
 | LIAM | 5 | 40 |
 | OLIVIA | 5 | 66 |
 | SAM | 1 | 2 |
 | LUCY | 12 | 52 |
-| KATIE | 22 | 173 |
+| KATIE | 24 | 184 |
 | JOE | 6 | 16 |
 | SARAH | 1 | 2 |
 
@@ -101,9 +101,17 @@ Lines are verbatim. Parentheticals are acting directions, not spoken. Scene numb
 - *(flat)* Wonderful. Just wonderful.
 - Rainbow inside?
 - Six years old and already high-maintenance.
-- Sure, sure. Whatever you say.
 
 ### E01-019
+
+- *(whispering)* You know you're an amazing mom, right?
+- *(whispering)* I mean it.
+
+### E01-020
+
+- Sure, sure. Whatever you say.
+
+### E01-021
 
 - (O.S.) No... No! Don't go! Stay!
 - Don't go!
@@ -206,6 +214,14 @@ Lines are verbatim. Parentheticals are acting directions, not spoken. Scene numb
 - And she wants a unicorn cake. With a rainbow inside.
 - You heard me.
 - Wonder where she gets it.
+- I'm going to check on the kids.
+
+### E01-019
+
+- *(whispering, smiling)* Stop with the nonsense.
+
+### E01-020
+
 - Give me a head start, okay? Let me fall asleep first. I can't take the snoring tonight.
 
 ## JOE
@@ -221,6 +237,6 @@ Lines are verbatim. Parentheticals are acting directions, not spoken. Scene numb
 
 ## SARAH
 
-### E01-020
+### E01-022
 
 - *(whispering)* Oh no.

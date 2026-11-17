@@ -20,16 +20,18 @@ blue is reserved for sparks and the spiritual dimension, so no character wears i
 |---|---|---|
 | MIKE-1 | Work, jacket off. Pale grey-green button-down shirt, top button open, no tie; dark charcoal chinos; brown leather shoes; plain watch on the left wrist; wedding ring. Company badge clipped at the belt. | 3, 4, start of 5 |
 | MIKE-2 | MIKE-1 plus the jacket: a soft, unstructured dark olive-brown jacket. Script: it hangs on the back of his chair, and he shrugs it on as he leaves. | end of 5, 6–14, start of 15 |
-| MIKE-3 | Home. MIKE-1 without badge, sleeves rolled to the elbow. From mid scene 16, script: dish towel over his shoulder (left shoulder **(P)**). No towel at dinner. | 15–17, 19 |
-| MIKE-4 | Night. Faded rust-colored T-shirt and grey pajama pants. | 18 |
-| KATIE-1 | Home after work. Cream knit sweater with sleeves pushed up, straight jeans, hair tied in a loose low bun for cooking; wedding ring; small stud earrings. | 16, 17, 19 |
-| KATIE-2 | Night. Script: pajamas, hair down (she brushes it). Soft sage-green two-piece pajamas. | 18 |
-| LUCY-1 | Mustard-yellow T-shirt under a short denim-look pinafore in faded rust, striped socks, hair in two short pigtails. From scene 17: the star band-aid. | 16, 17, 19 |
-| JOE-1 | Rust-orange hoodie with the hood down, grey jogger pants, socks. Script: gaming headset on in scene 15 only. No headset at dinner or in the dream (decided 2026-11-17). | 15, 17, 19 |
+| MIKE-3 | Home. MIKE-1 without badge, sleeves rolled to the elbow. From mid scene 16, script: dish towel over his shoulder (left shoulder **(P)**). No towel at dinner. | 15–17, 21 |
+| MIKE-4 | Night. Faded rust-colored T-shirt and grey pajama pants. | 18–20 |
+| KATIE-1 | Home after work. Cream knit sweater with sleeves pushed up, straight jeans, hair tied in a loose low bun for cooking; wedding ring; small stud earrings. | 16, 17, 21 |
+| KATIE-2 | Night. Script: pajamas, hair down (she brushes it). Soft sage-green two-piece pajamas. | 18–20 |
+| LUCY-1 | Mustard-yellow T-shirt under a short denim-look pinafore in faded rust, striped socks, hair in two short pigtails. From scene 17: the star band-aid. | 16, 17, 21 |
+| LUCY-2 **(P)** | Night. Pale yellow pajamas with a small cream print, hair out of the pigtails. The star band-aid stays on. | 19 |
+| JOE-1 | Rust-orange hoodie with the hood down, grey jogger pants, socks. Script: gaming headset on in scene 15 only. No headset at dinner or in the dream (decided 2026-11-17). | 15, 17, 21 |
+| JOE-2 **(P)** | Night. Oversized grey T-shirt and dark green pajama pants. No headset (decided 2026-11-17). | 19 |
 | JEFF-1 | Short-sleeved white shirt, dull patterned tie slightly loose, grey trousers with a belt, reading glasses pushed up on his head, company badge on a lanyard. | 3 |
 | LIAM-1 | Beige polo shirt, khaki trousers, company badge on a lanyard. | 3, 4, 5 |
 | OLIVIA-1 | Loose pale-pink blouse, high-waisted dark trousers, hair a little undone. Script: a party wristband on her wrist (neon green paper band, left wrist **(P)**). | 4 |
-| SARAH-1 | Oversized washed-out grey sleep shirt, damp at the collar; hair loose and tangled. Script: drenched in a cold sweat. | 20 |
+| SARAH-1 | Oversized washed-out grey sleep shirt, damp at the collar; hair loose and tangled. Script: drenched in a cold sweat. | 22 |
 
 ---
 
@@ -241,13 +243,41 @@ blue is reserved for sparks and the spiritual dimension, so no character wears i
 - **Staging:** Katie sits on the right edge of the bed facing the room, brushing her hair. Mike is at the sink, seen
   through the doorway. He leans into the doorway for the repeated question, goes back, then comes out wiping his mouth and
   stands at the foot of the bed. She throws a pillow from her side; he catches it. He sits on the left edge; she puts the
-  brush on the nightstand. She leans over and kisses him, both lie back, and she turns off the lamp. In the dark she lies on
-  her back with her eyes open, then reaches left and strokes his hair.
-- **Light:** one warm lamp, cooler light from the bathroom; then near-darkness with faint window light.
-- **Sound:** running water, brushing, the lamp click, then the snore.
+  brush on the nightstand, says she's checking on the kids, and pads out through the bedroom door **(P: frame right)**.
+  Mike stays sitting on the bed.
+- **Light:** one warm lamp, cooler light from the bathroom.
+- **Sound:** running water, brushing.
+- **Continuity out:** Mike follows her a few seconds later (unseen); he is already in the kids' doorway in scene 19.
+
+## E01-019 — INT. DAVIS HOUSE - KIDS' ROOM - NIGHT
+
+- **Characters and wardrobe:** Lucy (LUCY-2, star band-aid on), Joe (JOE-2), Katie (KATIE-2), Mike (MIKE-4).
+- **Set contains (P):** Script: one shared room, two small beds, a night-light. Proposal: the door in the left wall;
+  Lucy's bed along the left wall near the door, Joe's bed along the right wall with his face to the wall; a low dresser
+  between them under the window with the night-light (a small warm lamp) on it. Lucy's side: crayon drawings taped to the
+  wall, a stuffed animal. Joe's side: a shelf with a few books and a science-fair-style model. The house palette, softened
+  by the dark.
+- **Props:** night-light, blankets.
+- **Staging:** the door opens from the hallway; Katie enters, goes left to Lucy, pulls the blanket up, kisses her
+  forehead; crosses right to Joe, kisses his hair; he rolls over. She turns back toward the door and stops: Mike is
+  leaning in the doorway, backlit by the hallway. Whispered exchange. She takes his hand on the way out; the door closes.
+- **Light:** the warm night-light as key, low; the wedge of hallway light from the door; faint muted-blue window light
+  **(P)** (never electric blue). Mike in the doorway is a near-silhouette with warm rim light.
+- **Sound:** quiet room tone, the kids' breathing, Joe's mumble, the door. Everything whispered.
+- **Continuity out:** this is the last look at the kids before the dream.
+
+## E01-020 — INT. DAVIS HOUSE - MASTER BEDROOM - CONTINUOUS
+
+- **Characters and wardrobe:** Katie (KATIE-2), Mike (MIKE-4).
+- **Set contains:** as scene 18.
+- **Staging:** they come in together and climb into bed, each on their own side. Katie's head-start line, Mike's reply.
+  She leans over and kisses him, both lie back, and she turns off the lamp. In the dark she lies on her back with her
+  eyes open, then reaches left and strokes his hair.
+- **Light:** the warm lamp; then near-darkness with faint window light.
+- **Sound:** the lamp click, then the snore.
 - **Continuity out:** cut directly from Mike asleep into the dream.
 
-## E01-019 — THE DREAM
+## E01-021 — THE DREAM
 
 - **Characters and wardrobe:** Katie (KATIE-1), Joe (JOE-1), Lucy (LUCY-1 with band-aid), Mike (MIKE-3). All **(P)**: the
   family looks as they did at dinner, so the dream reads as that evening being taken away.
@@ -259,7 +289,7 @@ blue is reserved for sparks and the spiritual dimension, so no character wears i
   pulls back and it becomes clear the family is fixed and Mike is the one receding, backward and up.
 - **Sound:** Mike's voice; otherwise open.
 
-## E01-020 — INT. SARAH'S BEDROOM - NIGHT
+## E01-022 — INT. SARAH'S BEDROOM - NIGHT
 
 - **Characters and wardrobe:** Sarah (SARAH-1).
 - **Set contains (P):** a narrow single bed against a wall, clearly a room for one person; a nightstand with a lamp, a glass
@@ -283,3 +313,4 @@ blue is reserved for sparks and the spiritual dimension, so no character wears i
 6. Set dressing that carries meaning: the turned-away family photo on Mike's desk, the booster seat and Lucy's drawing in
    the car, Katie's empty suitcase, Sarah's notebook.
 7. Mike at lunch without his jacket.
+8. The kids' room (scene 19): layout, the kids' pajamas (LUCY-2, JOE-2), and the muted-blue window light.

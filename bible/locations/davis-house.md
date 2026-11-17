@@ -85,8 +85,14 @@ a sage-green sideboard like the kitchen cabinets, a pendant lamp with a natural 
 - The window behind Mike: deep, muted night blue, far from the electric blue of the sparks.
 - A little warm light spills in from the kitchen opening behind Katie.
 
-### Master bedroom (E01-018)
+### Master bedroom (E01-018, E01-020)
 - A bed with a nightstand and a lamp on Katie's side. An open door to the bathroom, where the sink is visible.
+
+### Kids' room (E01-019)
+- Joe and Lucy share one bedroom (decided 2026-11-17). Two small beds and a night-light.
+- Reached from the hallway; the door opens onto a wedge of hallway light. Mike and Katie's bedroom is close by.
+- Seen only at night, in EP01, with both kids asleep. Layout proposal: [production/breakdowns/ep01-scenes.md](../../production/breakdowns/ep01-scenes.md).
+- Must read as warm and safe even in the dark: the last look at the kids before the dream.
 
 ## Fixed plate angles
 
@@ -98,8 +104,9 @@ Kitchen and dining nook: locked 2026-11-17. The other areas are proposals, not l
 | Dining nook | A: wide, slightly high, from the corner by the sideboard (opens and closes the scene). B: Mike. C: Katie. D: Lucy. E: Joe. F: two-shot of Mike and Lucy. G: over Mike's shoulder to Katie. |
 | Living room | A: from the front door toward the couch. B: on the couch, TV side. C: the door with the bowl and hook. |
 | Master bedroom | A: wide with the bathroom door. B: Katie's side. C: the bathroom doorway. D: top-down on the bed. |
+| Kids' room | A: wide from inside the room toward the door. B: Lucy's bed. C: Joe's bed. D: the doorway (Mike, backlit). |
 | Exterior | A: the street. B: the house from the driveway. |
 
 ## Open
-- Living room, master bedroom and exterior: layout, materials, light.
+- Living room, master bedroom, kids' room and exterior: layout, materials, light.
 - Whether to build the kitchen and dining nook as a Blender layout.

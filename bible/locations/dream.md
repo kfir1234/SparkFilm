@@ -1,6 +1,6 @@
 # The Dream
 
-Sarah's dream of Mike's family saying goodbye (E01-019). The audience believes it is Mike's dream until E01-020.
+Sarah's dream of Mike's family saying goodbye (E01-021). The audience believes it is Mike's dream until E01-022.
 
 ## Look
 - A void of soft, warm light. Colors bleed like wet paint.
@@ -16,7 +16,7 @@ Sarah's dream of Mike's family saying goodbye (E01-019). The audience believes i
 - The reveal: they haven't moved. Mike is the one drifting backward and upward, away from them.
 
 ## Rules
-- Cut straight in from Mike asleep (E01-018), with no transition effect that marks it as someone else's dream.
+- Cut straight in from Mike asleep (E01-020), with no transition effect that marks it as someone else's dream.
 
 ## Open
 - Sound. Whether this visual language returns for Sarah's later visions.

@@ -2,10 +2,10 @@
 
 The medium. 52 (decided 2026-11-17). Facts below come from the script and [story/open-questions.md](../../story/open-questions.md).
 
-- First seen at the end of EP01 (E01-020): she wakes with a gasp from the "family goodbye" dream, drenched in a
+- First seen at the end of EP01 (E01-022): she wakes with a gasp from the "family goodbye" dream, drenched in a
   cold sweat, in a bed and a room we have never seen.
 - The audience assumes the dream is Mike's until her lamp comes on.
-- She dreams **about** Mike: he is visible in the dream (E01-019).
+- She dreams **about** Mike: he is visible in the dream (E01-021).
 - Her only line in EP01: "Oh no." (whispered).
 
 ## Rules for EP01

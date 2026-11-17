@@ -9,6 +9,8 @@ Protagonist. 35, the same age as Katie (decided 2026-11-17). Facts below come fr
 - Leaves work at 5:00 PM on the dot. Drives a silver company sedan, one of many identical ones.
 - Feels he "missed something", that he was "supposed to be somewhere else", and can't explain it.
 - At home: warm, present, playful. Cooks alongside Katie, hums while he works, snores the moment he lies down.
+- Watches Katie tuck in the sleeping kids from the doorway (E01-019) and tells her, in a whisper and without a joke,
+  that she's an amazing mom.
 
 ## Universe B
 - Startup CEO, rich, engaged to Jennie. Left Katie after college. Drives a sleek black sedan.

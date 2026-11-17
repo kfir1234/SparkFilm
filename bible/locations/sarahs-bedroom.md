@@ -1,6 +1,6 @@
 # Sarah's Bedroom
 
-Where Sarah wakes from the dream at the end of EP01 (E01-020). Night.
+Where Sarah wakes from the dream at the end of EP01 (E01-022). Night.
 
 - A bed and a bedside lamp. Nothing else is described yet.
 - The first seconds are dark and ambiguous: the audience should assume it is Mike's bedroom.

@@ -7,7 +7,8 @@ Mike's wife in Universe A. 35, the same age as Mike (decided 2026-11-17). Facts 
 - Mother of Joe (10) and Lucy (6). Runs the household logistics: dinner, laundry, the birthday party.
 - Bakes bread. Cooks chicken and potatoes in EP01.
 - About to leave for a conference on new technologies in dentistry. Lucy's birthday is the day after she returns.
-- First seen in E01-016. Also in the dream (E01-019), waving goodbye with a sad, gentle smile.
+- Checks on the sleeping kids before bed (E01-019). Brushes off Mike's compliment: "Stop with the nonsense."
+- First seen in E01-016. Also in the dream (E01-021), waving goodbye with a sad, gentle smile.
 
 ## Universe B
 - Mike left her after college. Whether she is "lost" in the ending is open.
@@ -36,7 +37,7 @@ Mike's wife in Universe A. 35, the same age as Mike (decided 2026-11-17). Facts 
 ## Planned
 - At least 2 more scenes in Universe A after EP01, before the first crash. Her deeper character moment
   belongs there (decided 2026-11-16).
-- "Give me a head start" (E01-018) is a candidate signature for her absence in Universe B. Not decided.
+- "Give me a head start" (E01-020) is a candidate signature for her absence in Universe B. Not decided.
 
 ## Open
 - Wardrobe.- Voice: recorded or synthetic.
