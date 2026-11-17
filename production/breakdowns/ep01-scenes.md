@@ -193,7 +193,7 @@ blue is reserved for sparks and the spiritual dimension, so no character wears i
 
 - **Characters and wardrobe:** Mike (MIKE-3, towel from mid-scene), Katie (KATIE-1), Lucy (LUCY-1, no band-aid yet).
 - **Set contains:** script: a stove with a pot, an oven with a window, a counter with room for a step stool, a kitchen
-  table. Layout **(P)**: stove and oven on the back wall; the counter continues to the right of the stove, two steps away, so
+  table. Layout (approved 2026-11-17, see `bible/locations/davis-house.md`): stove and oven on the back wall; the counter continues to the right of the stove, two steps away, so
   the stool position and the stove are in one frame; the table in the foreground left; a window over the sink on the right
   wall giving the golden light; a doorway on the left to the living room and a door at the back right to the laundry room.
   Dressing **(P)**: children's drawings and a calendar on the fridge, a fruit bowl, a spice rack, mismatched mugs.
@@ -221,7 +221,7 @@ blue is reserved for sparks and the spiritual dimension, so no character wears i
   kitchen behind Katie's seat **(P)**.
 - **Props:** four plates, cutlery, glasses, a water jug; the pot of chicken and potatoes; a salad bowl; the bread on a
   wooden board in the middle; napkins.
-- **Staging, seating (P):** going clockwise seen from above: Mike, Lucy, Katie, Joe. So Katie sits opposite Mike, with her
+- **Staging, seating (approved 2026-11-17):** going clockwise seen from above: Mike, Lucy, Katie, Joe. So Katie sits opposite Mike, with her
   back to the kitchen; Lucy is on Mike's left and Joe on Mike's right. This puts both children within Mike's reach (the high
   five with Joe, the two-shot with Lucy) and lets Katie's look at Mike travel across the whole table.
 - **Staging, action:** Mike, Joe and Lucy are seated. Katie enters from the kitchen behind her chair, sets the bread down
