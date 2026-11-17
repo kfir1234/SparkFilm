@@ -19,11 +19,21 @@ Mike and Katie's daughter. 6, about to turn 7. Facts below come from the script;
 - Sticks her tongue out when she concentrates.
 - Whispers the second half of the ritual.
 
+## Look (decided 2026-11-17)
+- **Lucy looks very much like Katie**: a small version of her mother.
+- **Hair:** blonde and straight, like Katie's, in two short pigtails. Same length and height in every shot.
+- **Height:** reaches Mike's waist.
+- **Teeth:** a full set. No missing front tooth.
+- **Eyes:** soft grey-blue, like Katie's (never the electric blue of the sparks).
+- **Face:** Katie's features in a 6-year-old's proportions: larger head, full cheeks, big eyes.
+
+## LoRA
+- Trigger word: `spklucy` (decided 2026-11-17).
+
 ## Wardrobe and marks
 - A band-aid covered in little cartoon stars on the cut fingertip, from E01-017 on
   ([star-band-aid](../props/star-band-aid.md)).
 
 ## Open
-- Face, hair, clothes. LoRA trigger word.
-- Which hand and finger she cuts.
+- Clothes.- Which hand and finger she cuts.
 - How a 6-year-old's voice is produced.

@@ -8,7 +8,7 @@ Decisions deferred until the full script exists. Resolve them here; don't decide
 
 ## Characters
 - [ ] The medium: backstory, arc, and the price (if any) she pays for revealing the truth.
-      Decided: her name is **Sarah** (40s). First seen at the end of EP01 (#E01-020#), waking from the
+      Decided: her name is **Sarah** (52). First seen at the end of EP01 (#E01-020#), waking from the
       "family goodbye" dream we assumed was Mike's. Why she dreams it is not explained yet.
 - [ ] Supporting cast to develop: college roommate / co-founder, Jennie's investor father, Mike's assistant, Mike's parents.
 - [ ] Jennie: an antagonist, a sympathetic casualty, or something more?

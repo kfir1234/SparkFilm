@@ -25,7 +25,7 @@ blue is reserved for sparks and the spiritual dimension, so no character wears i
 | KATIE-1 | Home after work. Cream knit sweater with sleeves pushed up, straight jeans, hair tied in a loose low bun for cooking; wedding ring; small stud earrings. | 16, 17, 19 |
 | KATIE-2 | Night. Script: pajamas, hair down (she brushes it). Soft sage-green two-piece pajamas. | 18 |
 | LUCY-1 | Mustard-yellow T-shirt under a short denim-look pinafore in faded rust, striped socks, hair in two short pigtails. From scene 17: the star band-aid. | 16, 17, 19 |
-| JOE-1 | Rust-orange hoodie with the hood down, grey jogger pants, socks. Script: gaming headset on in scene 15 (around his neck at dinner **(P)**). | 15, 17, 19 |
+| JOE-1 | Rust-orange hoodie with the hood down, grey jogger pants, socks. Script: gaming headset on in scene 15 only. No headset at dinner or in the dream (decided 2026-11-17). | 15, 17, 19 |
 | JEFF-1 | Short-sleeved white shirt, dull patterned tie slightly loose, grey trousers with a belt, reading glasses pushed up on his head, company badge on a lanyard. | 3 |
 | LIAM-1 | Beige polo shirt, khaki trousers, company badge on a lanyard. | 3, 4, 5 |
 | OLIVIA-1 | Loose pale-pink blouse, high-waisted dark trousers, hair a little undone. Script: a party wristband on her wrist (neon green paper band, left wrist **(P)**). | 4 |
@@ -214,7 +214,7 @@ blue is reserved for sparks and the spiritual dimension, so no character wears i
 
 ## E01-017 — INT. DAVIS HOUSE - DINING NOOK - EVENING
 
-- **Characters and wardrobe:** Mike (MIKE-3, no towel), Katie (KATIE-1), Joe (JOE-1, headset around his neck **(P)**),
+- **Characters and wardrobe:** Mike (MIKE-3, no towel), Katie (KATIE-1), Joe (JOE-1, no headset),
   Lucy (LUCY-1 with the band-aid on her left index finger **(P)**).
 - **Set contains:** a nook off the kitchen with a round wooden table for four **(P)**; a pendant lamp low over the table
   giving a warm pool of light; a window, now dark blue outside; a sideboard with framed photos **(P)**; a doorway to the
@@ -282,4 +282,4 @@ blue is reserved for sparks and the spiritual dimension, so no character wears i
 5. Screen direction of the two intersection scenes: the sedan enters from frame left in both.
 6. Set dressing that carries meaning: the turned-away family photo on Mike's desk, the booster seat and Lucy's drawing in
    the car, Katie's empty suitcase, Sarah's notebook.
-7. Mike at lunch without his jacket; Joe's headset around his neck at dinner.
+7. Mike at lunch without his jacket.

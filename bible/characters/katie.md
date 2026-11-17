@@ -1,6 +1,6 @@
 # Katie Davis
 
-Mike's wife in Universe A. 30s. Facts below come from the script; anything not yet decided is under Open.
+Mike's wife in Universe A. 35, the same age as Mike (decided 2026-11-17). Facts below come from the script; anything not yet decided is under Open.
 
 ## Universe A (EP01)
 - Dentist ("Twelve mouths and one of them actually bit me").
@@ -19,6 +19,16 @@ Mike's wife in Universe A. 30s. Facts below come from the script; anything not y
 - Practical and direct. Short sentences.
 - Tender when unobserved: strokes Mike's hair while he snores.
 
+## Look (decided 2026-11-17)
+- **Build:** average height, slim. Economical, precise movements.
+- **Face:** angular, prominent cheekbones, a direct gaze.
+- **Hair:** blonde, straight, shoulder length. Tied back at home in the evening, down at night (she brushes it).
+- **Eyes:** soft grey-blue. A natural eye color, clearly not the electric blue of the sparks, which stays
+  the only glowing blue in the film.
+
+## LoRA
+- Trigger word: `spkkatie` (decided 2026-11-17).
+
 ## Wardrobe
 - Evening at home: day clothes (not described).
 - Bedroom: pajamas. Brushes her hair before bed.
@@ -29,6 +39,5 @@ Mike's wife in Universe A. 30s. Facts below come from the script; anything not y
 - "Give me a head start" (E01-018) is a candidate signature for her absence in Universe B. Not decided.
 
 ## Open
-- Face, build, hair, wardrobe. LoRA trigger word.
-- Voice: recorded or synthetic.
+- Wardrobe.- Voice: recorded or synthetic.
 - Who she is in Universe B and Universe C.

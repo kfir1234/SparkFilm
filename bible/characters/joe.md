@@ -15,6 +15,19 @@ Mike and Katie's son. 10. Facts below come from the script; anything not yet dec
   Half "hi, Dad", half "you're in the way". He repeats the same flick as his goodbye in the dream (E01-019).
   The two must be recognizably the same gesture.
 
+## Look (decided 2026-11-17)
+- **Joe looks like Mike**: a small version of his father. (Lucy looks like Katie.)
+- **Hair:** dark brown like Mike's, a little long, falling over his forehead.
+- **Eyes:** brown.
+- **Face:** Mike's thick eyebrows and crooked smile.
+- **Build:** thin and lanky, at the age when the limbs run ahead of the body.
+- **Height:** reaches Mike's chest; a head and a half taller than Lucy.
+- **Gaming headset:** worn only in E01-015, when Mike comes home. It is not part of his look and
+  must not be in the LoRA training set.
+
+## LoRA
+- Trigger word: `spkjoe` (decided 2026-11-17).
+
 ## Open
-- Face, hair, clothes. LoRA trigger word.
+- Clothes.
 - How a 10-year-old's voice is produced.
