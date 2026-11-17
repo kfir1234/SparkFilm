@@ -50,6 +50,7 @@ redone until a style is settled. Until then, this is the style.
 - **Lenses:** a medium lens with natural perspective as the base, a slightly longer lens for close-ups. No very
   wide lenses that distort faces.
 - **Movement:** static shots with gentle movement. No long unbroken camera moves.
+  One deliberate exception: the fast journey from the Earth to the spiritual dimension at the end of E01-001.
 - **Depth of field:** moderately shallow. The background is softened but still readable; never focus on the
   characters alone.
 - **Finish:** a clean image. No film grain, no bloom, no lens effects.

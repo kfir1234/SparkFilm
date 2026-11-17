@@ -3,7 +3,12 @@
 Where souls live. Shown on screen (locked decision). First seen in the EP01 cold open (#E01-002#).
 
 ## Look (author's vision, 2026-11-13)
-- Reached by tilting up from the night sky; the transition is tinted a deep **ember blue**, as if lit from inside.
+- **The journey in (author's vision, 2026-11-17):** from the night sky the camera keeps rising, fast. It leaves the
+  Earth, rushes across the universe, and arrives at a deep **ember blue** glow, as if lit from inside. The glow
+  swallows the frame; it is the way in. The dimension lies beyond the universe.
+- The first shot inside opens on that full-frame glow. It thins like haze and the web is revealed behind it.
+- The journey is built from four short shots that read as one move (E01-S001-SH120 to SH150). It is the one
+  deliberate exception to the series rule of static shots with gentle movement.
 - A vast network of souls, each a core of **blue electricity**, connected to each other by threads of current
   (all souls are connected; see [story/mythology.md](../../story/mythology.md)).
 - **Sparks** constantly stream out of souls (into the universes) and back into them (at death).

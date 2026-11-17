@@ -10,13 +10,15 @@ E01-S001-SH080,1,E01-001,mike,city-intersection,black-sedan,MS; static,MIKE (V.O
 E01-S001-SH090,1,E01-001,mike,city-intersection,,CU; low angle; static,"MIKE (V.O.): Not sure if that makes me brave, or the biggest idiot alive. / Well. Not really alive.",8,motion,planned,Traffic light cycling over the empty road.
 E01-S001-SH100,1,E01-001,mike,city-intersection,,WS; static,"MIKE (V.O.): This is the second time I've died. / Yeah, the second time! / I don't really believe it myself...",9,motion,planned,Cruiser and ambulance as silhouettes; one or two indistinct figures at most (no crowd). Katie B must not appear.
 E01-S001-SH110,1,E01-001,mike,city-intersection,black-sedan,WS; high angle; static,MIKE (V.O.): Okay. Enough with the whining. Let me tell you about the people I left behind. The people I love. Both times.,9,motion,planned,
-E01-S001-SH120,1,E01-001,,city-intersection,,WS to EWS; camera rises,,6,motion,planned,Drift up past the streetlights into the night sky. Complex camera: blender-layout or first/last frame.
-E01-S001-SH130,1,E01-001,,city-intersection,,EWS; sky; static,,4,motion,planned,Sky glows ember blue from inside. Transition into the spiritual dimension.
-E01-S002-SH010,1,E01-002,,spiritual-dimension,,EWS; slow drift,,6,motion,planned,Vast web of souls: blue electric cores joined by threads of current. No faces.
-E01-S002-SH020,1,E01-002,,spiritual-dimension,,MS; static,,4,motion,planned,Sparks stream out of a soul and dive into the dark.
-E01-S002-SH030,1,E01-002,,spiritual-dimension,,WS; static,,4,motion,planned,Other sparks stream back up and sink into their souls.
-E01-S002-SH040,1,E01-002,,spiritual-dimension,,MS; tracking up,,4,motion,planned,One spark races upward through the current.
-E01-S002-SH050,1,E01-002,,spiritual-dimension,,CU; static,,2,motion,planned,Spark hits its soul. BOOM. Flash. Do not show where it goes next.
+E01-S001-SH120,1,E01-001,,city-intersection,,WS to EWS; camera rises,,3,motion,planned,Journey 1 of 4. Drift up from the wreck past the streetlights into the night sky. The four journey shots must read as one continuous fast move: hide the cuts in motion blur.
+E01-S001-SH130,1,E01-001,,,,EWS; camera rises fast,,3,motion,planned,Journey 2 of 4. Acceleration: clouds; the city shrinks to a scatter of lights; the curve of the Earth falls away.
+E01-S001-SH140,1,E01-001,,,,EWS; fast forward move,,4,motion,planned,Journey 3 of 4. The Earth is gone. Stars stretch into streaks; galaxies rush past.
+E01-S001-SH150,1,E01-001,,,,EWS; fast forward move,,2,motion,planned,Journey 4 of 4. Everything converges on a deep ember-blue glow that swallows the frame. Last frame = first frame of E01-S002-SH010.
+E01-S002-SH010,1,E01-002,,spiritual-dimension,,EWS; slow drift,,6,motion,planned,Opens on the full-frame ember-blue glow; it thins like haze and the web is revealed: souls as knots of threads of light with an amber ember in each core joined by currents. No faces.
+E01-S002-SH020,1,E01-002,,spiritual-dimension,,MS; static,,4,motion,planned,One soul: a dense knot of threads of light with an amber ember deep in its core. Sparks (small white-blue points with short tails) stream out along the currents and dive into the dark below. The universes are never seen.
+E01-S002-SH030,1,E01-002,,spiritual-dimension,,WS; static,,4,motion,planned,Looking up from below. Other sparks stream back up out of the dark and sink into their souls. All souls equal in size and brightness.
+E01-S002-SH040,1,E01-002,,spiritual-dimension,,MS; tracking up,,4,motion,planned,One spark races upward through the current. It looks like every other spark: only the camera singles it out.
+E01-S002-SH050,1,E01-002,,spiritual-dimension,,CU; static,,2,motion,planned,The spark hits its soul. BOOM: a white-blue flash fills the frame. Do not show where it goes next.
 E01-S002-SH060,1,E01-002,,,,black,,2,post,planned,Smash to black. Two seconds of silence.
 E01-S002-SH070,1,E01-002,,,,title card,,6,post,planned,Blue spark flickers; SPARK burns in ember blue (~1.5 s alone); episode name in white; both fade like an ember. Crackle cut dead into the game jingle.
 E01-S003-SH010,1,E01-003,,halloran-systems/open-office,match3-game,ECU; phone screen,,4,motion,planned,Gem grid; LEVEL COMPLETE! flashes; next level. Screen content can be built as a graphic in post.

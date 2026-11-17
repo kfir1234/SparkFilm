@@ -45,10 +45,10 @@ blue is reserved for sparks and the spiritual dimension, so no character wears i
 - **Staging:** the black sedan enters from frame left and crosses to the right **(P)**. The other car comes from the back of
   frame toward camera and hits its far side **(P)**. The sedan spins and stops against the pole, driver's side away from
   camera **(P)**, so the interior is never visible. The cruiser and ambulance stop at the left edge of frame.
-- **Light:** night, cool streetlight, traffic-light colors in the wet road, then red and blue flashes. Ends on a sky that
-  glows ember blue.
+- **Light:** night, cool streetlight, traffic-light colors in the wet road, then red and blue flashes.
 - **Sound:** crash, silence, the hubcap, then distant sirens. V.O. only after the crash.
-- **Continuity out:** the camera rises into the sky and into E01-002.
+- **Continuity out:** the camera rises into the sky and keeps going, fast: out of the Earth, across the universe, to an
+  ember-blue glow that fills the frame. E01-002 opens on that glow.
 
 ## E01-002 — THE SPIRITUAL DIMENSION
 
