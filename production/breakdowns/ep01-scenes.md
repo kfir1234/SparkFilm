@@ -38,15 +38,15 @@ blue is reserved for sparks and the spiritual dimension, so no character wears i
 ## E01-001 — EXT. CITY INTERSECTION - NIGHT (Universe B)
 
 - **Characters:** none seen. Mike is voice only (V.O.). Emergency crews as silhouettes at most.
-- **Set contains:** a four-way intersection, wet asphalt, traffic lights on each corner, streetlights, one light pole
-  on the far-right corner that the sedan ends against. Dark, unbranded storefronts **(P)**. No pedestrians, no other traffic.
-- **Props and vehicles:** black sedan; the car that hits it (dark, never seen clearly **(P)**); one hubcap; police cruiser;
+- **Set contains:** a four-way intersection, wet asphalt, no traffic lights or signs (author 2026-11-18), streetlights.
+  Dark, unbranded storefronts **(P)**. No pedestrians, no other traffic.
+- **Props and vehicles:** black sedan (no other car is ever seen); one hubcap; police cruiser;
   ambulance; broken glass on the asphalt.
-- **Staging:** the black sedan enters from frame left and crosses to the right **(P)**. The other car comes from the back of
-  frame toward camera and hits its far side **(P)**. The sedan spins and stops against the pole, driver's side away from
-  camera **(P)**, so the interior is never visible. The cruiser and ambulance stop at the left edge of frame.
-- **Light:** night, cool streetlight, traffic-light colors in the wet road, then red and blue flashes.
-- **Sound:** crash, silence, the hubcap, then distant sirens. V.O. only after the crash.
+- **Staging (author 2026-11-18):** the intersection is empty. The black sedan tumbles in from the lower-left street,
+  already rolling over, and comes to rest on its roof in the middle of the intersection. The collision is never seen.
+  Windows opaque, so the interior is never visible. The cruiser and ambulance stop at the left edge of frame.
+- **Light:** night, warm amber streetlight reflected in the wet road, then red and blue flashes.
+- **Sound:** silence, then the sedan tumbling in (no crash is heard before it appears), silence again, the hubcap, then distant sirens. V.O. only after the car has stopped.
 - **Continuity out:** the camera rises into the sky and keeps going, fast: out of the Earth, across the universe, to an
   ember-blue glow that fills the frame. E01-002 opens on that glow.
 
