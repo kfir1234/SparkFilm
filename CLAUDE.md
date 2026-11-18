@@ -67,6 +67,10 @@ production/
   prompts/                     # reusable ComfyUI prompt templates per route
   logs/                        # pilot timings, cost tracking, decisions
 tools/                         # small scripts (Fountain parsing, shot-list generation, exports)
+shots/                         # GITIGNORED (backed up separately): draft keyframes and videos the episode is cut from
+  ep01/S001-cold-open-crash/E01-S001-SH010/
+    keyframes/                 # still frames for the shot
+    video/                     # numbered video drafts, e.g. E01-S001-SH010_v01.mp4
 assets/  renders/  audio/      # LARGE BINARIES: gitignored, never committed
 ```
 

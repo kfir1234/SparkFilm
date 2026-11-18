@@ -2,6 +2,8 @@
 assets/
 renders/
 audio/
+# Draft videos and keyframes per shot (backed up separately)
+/shots/
 *.mp4
 *.mov
 *.mkv
