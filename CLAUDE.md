@@ -69,8 +69,10 @@ production/
 tools/                         # small scripts (Fountain parsing, shot-list generation, exports)
 shots/                         # GITIGNORED (backed up separately): draft keyframes and videos the episode is cut from
   ep01/S001-cold-open-crash/E01-S001-SH010/
-    keyframes/                 # still frames for the shot
-    video/                     # numbered video drafts, e.g. E01-S001-SH010_v01.mp4
+    keyframes/                 # the chosen keyframes only; the author copies them here from drafts/ himself
+      drafts/                  # keyframe drafts
+    video/                     # the chosen take only; the author copies it here from drafts/ himself
+      drafts/                  # numbered video drafts, e.g. E01-S001-SH010_v01.mp4
 assets/  renders/  audio/      # LARGE BINARIES: gitignored, never committed
 ```
 
