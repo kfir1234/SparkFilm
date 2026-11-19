@@ -3,7 +3,7 @@
 A quiet city intersection. It appears twice in EP01, and the two appearances are framed to rhyme.
 
 ## E01-001: Universe B, night (the second death)
-- Wet asphalt reflecting the streetlights. The intersection is empty; then the black sedan tumbles in, already
+- Wet asphalt reflecting the streetlights. The intersection is empty; then the black SUV tumbles in, already
   rolling over, and comes to rest on its roof in the middle of the intersection (author's decision, 2026-11-18).
 - **The collision is never seen and no other car ever appears.** Whatever happened, happened out of frame.
 - After the crash: a police cruiser and an ambulance at the edge of frame, red and blue light.
@@ -20,7 +20,7 @@ A quiet city intersection. It appears twice in EP01, and the two appearances are
 - Very few objects: no parked cars, trash cans, benches or trees.
 - **Plate A:** from the roof corner of a four-storey building, looking diagonally down. The crossing sits in the
   center of the frame like a diamond: one street runs lower left to upper right, the other lower right to upper left.
-  The black sedan tumbles in along the street that enters from the lower left.
+  The black SUV tumbles in along the street that enters from the lower left.
 - Nothing in the frame tells who had the right of way (accident vs. choice stays open).
 - Palette: dim warm grey and charcoal. Amber from the streetlights and windows, and their reflections on the wet
   asphalt, is the only accent color until the red and blue of the emergency lights.
@@ -28,12 +28,12 @@ A quiet city intersection. It appears twice in EP01, and the two appearances are
 
 ## E01-011: Universe A, evening (the near-miss)
 - Same angles as the cold open. Here the other car is seen: headlights from the side.
-- The silver company sedan instead of the black one. No music, street sound only.
+- The silver company sedan instead of the black SUV. No music, street sound only.
 - The other car races to beat its own yellow and crosses inches from Mike's bumper.
 
 ## Proposed fixed plate angles (not locked)
 - A: extreme wide, high angle (approved for E01-001, see the layout above).
-- B: wide on the sedan entering (used in both scenes).
+- B: wide on the car entering (used in both scenes).
 - C: wide toward the side street the other car comes from (used in both scenes).
 - D: low angle on a streetlight in E01-001 (no traffic lights there); on the traffic light in E01-011.
 

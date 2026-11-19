@@ -1,7 +1,7 @@
 # Company Sedan (silver)
 
 Universe A. Mike's car: a silver company sedan, identical to every other car in the Halloran Systems garage.
-Its meaning: his life as one more copy in a row. The contrast is the [black sedan](black-sedan.md) of Universe B.
+Its meaning: his life as one more copy in a row. The contrast is the [black luxury SUV](black-suv.md) of Universe B.
 
 ## Exterior
 - Silver. The same small company logo on every door.

@@ -13,7 +13,7 @@ Protagonist. 35, the same age as Katie (decided 2026-11-17). Facts below come fr
   that she's an amazing mom.
 
 ## Universe B
-- Startup CEO, rich, engaged to Jennie. Left Katie after college. Drives a sleek black sedan.
+- Startup CEO, rich, engaged to Jennie. Left Katie after college. Drives a large black luxury SUV.
 - In the EP01 cold open he is heard (V.O.) but never seen.
 
 ## Personality and voice

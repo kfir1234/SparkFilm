@@ -40,13 +40,13 @@ blue is reserved for sparks and the spiritual dimension, so no character wears i
 - **Characters:** none seen. Mike is voice only (V.O.). Emergency crews as silhouettes at most.
 - **Set contains:** a four-way intersection, wet asphalt, no traffic lights or signs (author 2026-11-18), streetlights.
   Dark, unbranded storefronts **(P)**. No pedestrians, no other traffic.
-- **Props and vehicles:** black sedan (no other car is ever seen); one hubcap; police cruiser;
+- **Props and vehicles:** black luxury SUV (no other car is ever seen); police cruiser;
   ambulance; broken glass on the asphalt.
-- **Staging (author 2026-11-18):** the intersection is empty. The black sedan tumbles in from the lower-left street,
+- **Staging (author 2026-11-18):** the intersection is empty. The black SUV tumbles in from the lower-left street,
   already rolling over, and comes to rest on its roof in the middle of the intersection. The collision is never seen.
   Windows opaque, so the interior is never visible. The cruiser and ambulance stop at the left edge of frame.
 - **Light:** night, warm amber streetlight reflected in the wet road, then red and blue flashes.
-- **Sound:** silence, then the sedan tumbling in (no crash is heard before it appears), silence again, the hubcap, then distant sirens. V.O. only after the car has stopped.
+- **Sound:** silence, then the SUV tumbling in (no crash is heard before it appears), silence again while the last headlight flickers out, then distant sirens. V.O. only after the car has stopped.
 - **Continuity out:** the camera rises into the sky and keeps going, fast: out of the Earth, across the universe, to an
   ember-blue glow that fills the frame. E01-002 opens on that glow.
 
@@ -309,7 +309,7 @@ blue is reserved for sparks and the spiritual dimension, so no character wears i
 3. Lucy cuts her left index fingertip.
 4. Layouts: kitchen (stove and counter on one wall, two steps apart), bedroom (Katie on the right with the lamp),
    living room (front door at left, TV at right, kitchen at the back).
-5. Screen direction of the two intersection scenes: the sedan enters from frame left in both.
+5. Screen direction of the two intersection scenes: Mike's car enters from frame left in both.
 6. Set dressing that carries meaning: the turned-away family photo on Mike's desk, the booster seat and Lucy's drawing in
    the car, Katie's empty suitcase, Sarah's notebook.
 7. Mike at lunch without his jacket.
