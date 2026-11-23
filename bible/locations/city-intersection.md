@@ -6,7 +6,8 @@ A quiet city intersection. It appears twice in EP01, and the two appearances are
 - Wet asphalt reflecting the streetlights. The intersection is empty; then the black SUV tumbles in, already
   rolling over, and comes to rest on its roof in the middle of the intersection (author's decision, 2026-11-18).
 - **The collision is never seen and no other car ever appears.** Whatever happened, happened out of frame.
-- After the crash: a police cruiser and an ambulance at the edge of frame, red and blue light.
+- After the crash: red and blue emergency light and sirens. The police and ambulance themselves are never seen
+  (author's decision, 2026-11-18).
 - Rules: never show Mike inside the car. Keep accident vs. choice ambiguous.
   Katie B must not appear. No crowd.
 

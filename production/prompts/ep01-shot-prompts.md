@@ -13,11 +13,17 @@ Prompts never name a studio, a film or a creator. They describe the traits inste
 | [E01-S001-SH020](#e01-s001-sh020) | E01-001, the SUV tumbles in | First keyframe | The SH010 keyframe, unchanged | — |
 | [E01-S001-SH020](#e01-s001-sh020) | E01-001, the SUV tumbles in | Last keyframe | Nano Banana (edit of the SH010 keyframe) | not tested |
 | [E01-S001-SH020](#e01-s001-sh020) | E01-001, the SUV tumbles in | Video | Runway | not tested |
+| [E01-S001 crash sound](#e01-s001-crash-sound-off-screen) | E01-001, the unseen crash | Sound effect | ElevenLabs Sound Effects | not tested |
 | [E01-S001-SH030](#e01-s001-sh030) | E01-001, the wreck from street level | First keyframe | Nano Banana (reference: the SH020 last keyframe) | not tested |
 | [E01-S001-SH030](#e01-s001-sh030) | E01-001, the wreck from street level | Last keyframe | Dropped | Two tests failed (no change of angle; then the buildings moved) |
 | [E01-S001-SH030](#e01-s001-sh030) | E01-001, the wreck from street level | Video | Seedance (first keyframe only) | not tested |
 | [E01-S001-SH060](#e01-s001-sh060) | E01-001, the emergency lights arrive | First keyframe | The last frame of the SH030 video | — |
 | [E01-S001-SH060](#e01-s001-sh060) | E01-001, the emergency lights arrive | Video | Seedance (first keyframe only) | not tested |
+| [E01-S001 emergency sirens](#e01-s001-emergency-sirens-off-screen) | E01-001, sirens over SH060 | Sound effect | ElevenLabs Sound Effects | not tested |
+| [E01-S001 narration](#e01-s001-narration-voice-test) | E01-001, MIKE (V.O.) | Voice test | ElevenLabs | not tested |
+| [E01-S001 background music](#e01-s001-background-music) | E01-001, the whole cold open | Music loop | ElevenLabs Music (or ACE-Step) | not tested |
+| [E01-S001-SH120](#e01-s001-sh120) | E01-001, journey 1 of 4 | Video | Seedance (first frame: the wreck; last frame: the SH130 first keyframe) | not tested |
+| [E01-S001 journey sound](#e01-s001-journey-sound-flight-through-the-stars) | E01-001, sound over SH130 to SH150 | Sound effect | ElevenLabs Sound Effects | not tested |
 | [E01-S001-SH130](#e01-s001-sh130) | E01-001, journey 2 of 4 | First keyframe | Nano Banana | v2 (inland), not retested |
 | [E01-S001-SH130](#e01-s001-sh130) | E01-001, journey 2 of 4 | Last keyframe | Nano Banana (edit of the first keyframe) | v2 (inland), not retested |
 | [E01-S001-SH130](#e01-s001-sh130) | E01-001, journey 2 of 4 | Video | Runway | Test 1 failed (start area read as sea); v2 (inland), not retested |
@@ -25,6 +31,10 @@ Prompts never name a studio, a film or a creator. They describe the traits inste
 | [E01-S001-SH140](#e01-s001-sh140) | E01-001, journey 3 of 4 | Video | Runway | not tested |
 | [E01-S001-SH150](#e01-s001-sh150) | E01-001, journey 4 of 4 | Last keyframe | Nano Banana (no reference image) | not tested |
 | [E01-S001-SH150](#e01-s001-sh150) | E01-001, journey 4 of 4 | Video | Runway | not tested |
+| [E01-S002-SH010](#e01-s002-sh010) | E01-002, the web is revealed | First keyframe | The last frame of the SH150 video | — |
+| [E01-S002-SH010](#e01-s002-sh010) | E01-002, the web is revealed | Last keyframe (master image of the web) | Nano Banana (reference: the first keyframe, color only) | not tested |
+| [E01-S002-SH010](#e01-s002-sh010) | E01-002, the web is revealed | Last keyframe with sparks | Nano Banana (edit of the master image) | not tested |
+| [E01-S002-SH010](#e01-s002-sh010) | E01-002, the web is revealed | Video | Seedance (first and last frame) | not tested |
 
 Status values: `not tested` → `tested` (with a note on the result) → `approved`.
 
@@ -86,7 +96,7 @@ The frame contains no people, no vehicles, no animals, no traffic lights, no sig
 - **Last keyframe:** the SUV has just landed on its roof in the middle of the intersection. A settled pose is
   used rather than a mid-roll pose, because it is far more stable to generate and gives the video model a clear
   target. E01-S001-SH030 (medium shot) then shows the still wreck from street level, where the headlight flickers and goes out. This frame is also the wide
-  reference of the wreck for the narration shots (SH060 to SH110).
+  reference of the wreck for the narration shot (SH060).
 - **The car is a large black luxury SUV (author's decision, 2026-11-18).** Its exact look is a proposal (P), not
   locked: tall, boxy and imposing, glossy black, no badge; windows opaque; one headlight still on. See
   [bible/props/black-suv.md](../../bible/props/black-suv.md); lock it once the author approves the image.
@@ -163,6 +173,59 @@ Stylized 3D animation, clean smooth surfaces, soft naturalistic night light. One
 - The windows are opaque. Nothing inside the car is visible.
 - No second car, no people, no blood, no fire.
 - The car is readable against the dark road: the headlight pool and the amber reflections separate it.
+
+---
+
+## E01-S001 crash sound (off screen)
+
+- **Scene:** E01-001. The crash is heard, never seen: it plays over E01-S001-SH010 (the empty intersection) and runs into E01-S001-SH020 (the SUV tumbles in).
+- **Tool:** ElevenLabs Sound Effects (text to sound effect). Written 2026-11-21.
+- **Canon limits:** one vehicle only. Nothing in the sound may suggest a second car (no horn, no second engine). What the SUV hits stays unknown.
+- **Wording rule:** the prompts name only the sounds that are wanted. They carry no "no horn" or "no voices" lines, because a named sound may be added instead of removed.
+- **License:** ElevenLabs output may go into the episode only from a paid plan.
+
+### Option A: three layers, mixed in the edit (preferred)
+
+Layer 1, the skid. Duration: 3 seconds.
+
+```
+Long tire screech of a heavy SUV skidding on wet asphalt, heard from a block away on a quiet city street at night, natural echo between buildings, cinematic, realistic.
+```
+
+Layer 2, the impact. Duration: 2 seconds.
+
+```
+One huge, deep car crash impact: a low boom, heavy metal crunching and glass shattering, heard from a block away with a short street echo, cinematic, realistic.
+```
+
+Layer 3, the tumble. Duration: 4 seconds.
+
+```
+A heavy SUV rolling over several times on wet asphalt, coming closer: repeated heavy metal thuds, scraping steel, broken glass sprinkling on the road, ending with one last heavy thud. Close, cinematic, realistic.
+```
+
+Placement on the timeline (SH010 = 0 to 3 s, SH020 = 3 to 6 s): the skid starts at about 0.8 s; the impact lands at about 2.2 s and cuts the skid off; the tumble starts at 3.0 s, when the SUV enters the frame, and its last thud lands on the frame where the SUV stops.
+
+### Option B: one clip
+
+Duration: 6 seconds.
+
+```
+Heard on a quiet, wet city street at night: a heavy SUV's tires screech in a long skid, then one huge, deep crash impact with crunching metal and shattering glass, then the heavy vehicle rolls over and over on the asphalt, coming closer, with metal thuds, scraping steel and sprinkling glass, ending with one last heavy thud. Cinematic, realistic, natural street echo.
+```
+
+### Settings
+
+- Set the duration by hand to the value above; do not leave it on automatic.
+- Prompt influence: start at about 0.6, and raise it if the result drifts from the description.
+- Generate several variations of each layer and keep the best one.
+
+### What to check in the result
+
+- No horn, no second engine, no voices and no music.
+- The skid and the impact sound far away; the tumble sounds close.
+- The impact is one deep hit, not a string of small ones.
+- The tumble has separate heavy thuds that can be lined up with the rolls in the SH020 video.
 
 ---
 
@@ -276,8 +339,10 @@ Style: the same stylized 3D animation as the first frame, with clean smooth surf
 
 - **Scene:** E01-001, EXT. CITY INTERSECTION - NIGHT (Universe B).
 - **Script:** "Distant sirens rise. Red and blue light washes over the wreck."
-- **Narration over the shot:** MIKE (V.O.): "See this wrecked car? That's me in there." Added in the edit.
-- **Planned length:** 8 s.
+- **Narration over the shot:** the whole cold-open narration of MIKE (V.O.), added in the edit. The separate
+  narration shots SH070 to SH110 were cut by the author on 2026-11-20.
+- **Planned length:** 8 s generated. In the edit the shot is extended statically to the length of the recorded
+  narration (about 50 s).
 - **Camera:** continues from the end of SH030: medium shot, low, front three-quarter view of the wreck, moving very
   slightly.
 - **First keyframe:** the last frame of the approved SH030 video (the wreck with its headlights dark). No last
@@ -327,6 +392,284 @@ Style: the same stylized 3D animation as the first frame, with clean smooth surf
 ### Before this goes into the episode
 
 - Seedance is not on the plan's list of approved tools. Confirm that the plan in use allows commercial use.
+
+---
+
+## E01-S001 emergency sirens (off screen)
+
+- **Scene:** E01-001, over E01-S001-SH060. Police, fire trucks and ambulances are heard, never seen. Their light comes from frame left, so the sound is panned left in the edit.
+- **Tool:** ElevenLabs Sound Effects. Written 2026-11-21.
+- **Author's brief (2026-11-21):** police, fire trucks and ambulances in the background. Fire trucks are new here; the script and the breakdown name only police and an ambulance.
+- **Proposal, not yet approved:** the sirens approach, then wind down and stop, and a quiet idling bed stays under the narration. The option with sirens through the whole narration is Layer 1b.
+- **License:** ElevenLabs output may go into the episode only from a paid plan.
+
+### Layer 1: the approach. Duration: 12 seconds.
+
+```
+Several emergency sirens approaching from far away on a quiet city street at night: wailing police sirens, an ambulance siren and a deep fire truck siren, starting very faint and distant and growing steadily louder and closer, natural echo between buildings, realistic.
+```
+
+### Layer 1b (alternative bed): distant sirens that never arrive. Duration: 20 seconds, loop on.
+
+```
+Distant emergency sirens on a city street at night, steady and far away: police sirens, an ambulance siren and a deep fire truck siren overlapping, soft, with natural echo between buildings, even level from start to end, realistic.
+```
+
+### Layer 2: the sirens stop. Duration: 6 seconds.
+
+```
+Close emergency sirens winding down and stopping one after another: a police siren, an ambulance siren and a deep fire truck siren, each dropping in pitch and falling silent, realistic.
+```
+
+### Layer 3: the scene bed. Duration: 20 seconds, loop on.
+
+```
+Quiet emergency scene ambience at night, steady and even: a large diesel fire truck engine idling at a short distance, faint radio static, soft, realistic.
+```
+
+### Placement on the SH060 timeline
+
+- 0 to 1 s: silence (the headlight has just died).
+- 1 to 13 s: Layer 1, rising together with the red and blue flashes.
+- 13 to 19 s: Layer 2.
+- From about 17 s to the end of the narration: Layer 3, low, on repeat.
+
+### What to check in the result
+
+- All three siren types are heard: police, ambulance, the deeper fire truck.
+- Layer 1 really grows from far to near; it does not start loud.
+- No voices and no words that can be understood.
+- Layer 3 and Layer 1b keep an even level, so the repeat is not heard.
+
+---
+
+## E01-S001 narration (voice test)
+
+- **Scene:** E01-001. MIKE (V.O.), the whole cold-open narration, played over E01-S001-SH060.
+- **Purpose:** a timing and tone test only (2026-11-20). Not the final voice.
+- **Direction from the script:** slow, quiet; frustrated, yet at peace with death.
+- **Words:** exactly the script's lines. Only tags and pauses are added.
+- **License:** ElevenLabs output may go into the episode only from a paid plan.
+
+### Version A: Eleven v4 (audio tags in square brackets)
+
+The author uses Eleven v4 (2026-11-20). Per the ElevenLabs docs, v4 (like v3) takes free-text audio tags in square
+brackets and does not support SSML `<break>` tags: pauses come from `[pause]` / `[long pause]`, punctuation and line
+breaks. One tag per clause; tags describe the voice, so they are not taken for sound effects.
+
+```
+[slow, quiet, tired voice] See this wrecked car?
+
+[flat, matter-of-fact] That's me in there.
+
+[long pause]
+
+[low, bitter voice] Last time, I fought it. [pause] Every single second.
+
+[pause]
+
+[exhales] This time...
+
+[softly, letting go] this time I just let go.
+
+[pause]
+
+[dry, wry voice] Not sure if that makes me brave, or the biggest idiot alive.
+
+[pause]
+
+[quiet, deadpan] Well. [pause] Not really alive.
+
+[pause]
+
+[calm, plain voice] This is the second time I've died.
+
+[pause]
+
+[louder, frustrated, disbelieving] Yeah, the second time!
+
+[pause]
+
+[quieter, trailing off] I don't really believe it myself...
+
+[long pause]
+
+[sighs] Okay. Enough with the whining.
+
+[pause]
+
+[warmer, steadier voice] Let me tell you about the people I left behind.
+
+[softly, with love] The people I love.
+
+[pause]
+
+[quiet, heavy voice] Both times.
+```
+
+### Version B: Eleven Multilingual v2 or Turbo v2 only (break tags, no emotion tags; not for v4)
+
+```
+See this wrecked car? <break time="0.6s" /> That's me in there.
+<break time="2.5s" />
+Last time, I fought it. <break time="0.5s" /> Every single second.
+<break time="1.5s" />
+This time... <break time="0.7s" /> this time I just let go.
+<break time="1.5s" />
+Not sure if that makes me brave, or the biggest idiot alive.
+<break time="1.5s" />
+Well. <break time="0.6s" /> Not really alive.
+<break time="1.5s" />
+This is the second time I've died.
+<break time="1.2s" />
+Yeah, the second time!
+<break time="1.2s" />
+I don't really believe it myself...
+<break time="2.5s" />
+Okay. Enough with the whining. <break time="0.7s" /> Let me tell you about the people I left behind. <break time="0.5s" /> The people I love. <break time="0.8s" /> Both times.
+```
+
+### What to check in the result
+
+- Total length, to size E01-S001-SH060 (the estimate is 50 s).
+- No tag is read aloud.
+- Only "Yeah, the second time!" rises; everything else stays low and slow.
+- The last line turns warm, not sad.
+
+---
+
+## E01-S001 background music
+
+- **Scene:** E01-001. One piano bed for the whole cold open (about 71 s), under the crash sounds and under MIKE's narration. Played on repeat.
+- **Tool:** written for ElevenLabs Music (instrumental). The same text works as the description for ACE-Step, the local option on the plan's approved list. Written 2026-11-21.
+- **Author's brief:** piano; calm and mysterious; carries the narration; the end of the track lets it loop.
+- **License:** confirm the commercial terms of the music tool before the track goes into the episode. ElevenLabs output only from a paid plan.
+
+### Prompt
+
+Length: 64 seconds. Instrumental.
+
+```
+Instrumental film score cue for a quiet night scene. Solo felt piano, soft and close, playing a slow, sparse, repeating four-note motif in D minor, with long pauses between phrases. Under it, a very quiet, warm, low string pad that never swells. Mood: calm, mysterious, melancholic, at peace. Slow steady tempo, 60 BPM. Very low and even dynamics from the first second to the last: no build-up, no climax, no drums, no percussion, no bass drop, no vocals. The piece is a seamless loop: it starts directly on the motif with no intro and no fade-in, and it ends mid-pattern on an open, unresolved chord with no final cadence, no ritardando and no fade-out, so that the last bar leads straight back into the first bar.
+```
+
+### Settings
+
+- Set the length by hand to 64 seconds (16 bars at 60 BPM), so the loop point falls on a bar line.
+- Instrumental mode on, if the tool has the switch.
+
+### Looping in the edit
+
+- Cut the track on a bar line (every 4 seconds at 60 BPM) and overlap the copies by about 1 second, so the piano's ringing tail covers the join.
+
+### What to check in the result
+
+- The piano stays sparse: the narration is clear over it without lowering the music by much.
+- The level and the texture are the same at the start and at the end; the join is not heard when the track repeats.
+- No ending chord, no slowing down, no fade at the end.
+- No drums, no voices, no swell.
+
+---
+
+## E01-S001-SH120
+
+- **Scene:** E01-001, EXT. CITY INTERSECTION - NIGHT (Universe B). The first of the four journey shots.
+- **Planned length:** 3 s. Generate 5 s and speed it up in the edit: the move is too large to stay solid in 3 s.
+- **Camera:** rises straight up from the wreck, like a crane, and tilts up a little at the end. A straight vertical
+  rise is used because the model only has to reveal the upper floors and roofs of buildings it already sees, and
+  then the city behind them. It never has to invent a top view of the intersection.
+- **First keyframe:** the author's frame of the wreck after the emergency lights (close, low, front three-quarter
+  view, red and blue light on the car).
+- **Last keyframe:** the approved first keyframe of E01-S001-SH130 (just above the rooftops, night sky in most of
+  the frame), so the two shots join without a jump.
+- **Rules:** the emergency vehicles stay out of frame. No people. The world stays solid and complete for the whole
+  move.
+
+### Video (Seedance, first and last frame)
+
+Upload the wreck frame as the first frame and the SH130 first keyframe as the last frame.
+
+```
+Duration: 5 seconds. First frame and last frame are given.
+
+FIRST FRAME: a close, low view of a large black luxury SUV lying upside down on its roof in a city intersection at night, with red and blue emergency light on it and low brick buildings with amber windows behind it.
+
+LAST FRAME: a view from just above the city rooftops, where a dark night sky with a few stars and soft clouds fills most of the frame and the flat roofs of the city sit in a narrow band at the bottom.
+
+One continuous shot from the FIRST FRAME to the LAST FRAME. No cut, no dissolve, no fade, no morph. It is a single real camera rising through a single real place.
+
+Camera movement: a smooth vertical crane move. The camera rises straight up from the road, slowly at first and then steadily faster. It keeps facing the same direction the whole time, toward the buildings behind the car. It does not turn left or right and it does not fly forward. Only in the last second it tilts up a little, so the sky fills most of the frame and the rooftops settle in a narrow band at the bottom, exactly as in the LAST FRAME.
+
+What the camera passes, in order:
+1. The overturned car sinks toward the bottom of the frame and slides out of view. It stays still and solid and does not change shape.
+2. The street behind it: the sidewalk, the streetlight poles with their amber lamps, the ground floor of the buildings.
+3. The upper floors of the same buildings, with the same brick walls and the same lit amber windows as in the FIRST FRAME, sliding down the frame.
+4. The roof edges of those buildings, then their flat roofs seen from just above: dark, damp, with simple parapets, vents and small roof structures.
+5. Beyond them, more of the city coming into view: block after block of similar low and mid-rise buildings with flat roofs, small amber windows and streetlights, reaching all the way to the horizon.
+6. The night sky opening up above: deep charcoal-navy, a few small stars, soft rounded clouds.
+
+The world is solid and complete at every moment. Every part of the frame is always filled with real city or real sky. Buildings are whole, with walls, windows and roofs. There are no gaps, no holes, no empty or blank areas, no flat grey ground, no fog hiding the city, no floating or half-built buildings, and no buildings that appear, vanish, melt, stretch or slide. Everything that comes into view stays where it is and only moves down the frame as the camera rises.
+
+Light: the red and blue emergency light pulses on the car and the road at the start. It comes from outside the frame. As the camera rises above the street it fades and is left behind, and from the rooftops up the only light is the warm amber of windows and streetlights under the dark sky.
+
+No police car, no ambulance, no other vehicle, no aircraft and no people appear at any moment. No fire, no smoke, no steam, no rain. No traffic lights, no signs, no text.
+
+Sound: distant police sirens that fade and fall away as the camera rises, into quiet wind.
+
+Style: stylized 3D animation with simplified shapes, clean smooth surfaces and soft naturalistic night light, the same from the first frame to the last.
+```
+
+### What to check in the video
+
+- The city is whole through the entire rise: no holes, blank areas, fog walls or half-built buildings.
+- The buildings behind the car are the same ones from street level to roof. Nothing slides or melts.
+- The move is one vertical rise. It does not become a dissolve or a morph between the two images.
+- No vehicle or person appears. The red and blue light fades as the camera leaves the street.
+- The last frame matches the SH130 first keyframe closely enough to cut on.
+
+### Before this goes into the episode
+
+- Seedance is not on the plan's list of approved tools. Confirm that the plan in use allows commercial use.
+
+---
+
+## E01-S001 journey sound (flight through the stars)
+
+- **Scene:** E01-001, over the journey shots E01-S001-SH130, SH140 and SH150 (9 s), after the rise of SH120. The camera accelerates from the sky above the city through the stars into the deep ember-blue glow.
+- **Tool:** ElevenLabs Sound Effects. Written 2026-11-21.
+- **Character:** air and tone, not a machine. Soft, wide, ethereal. The prompts name only the wanted sounds.
+- **License:** ElevenLabs output may go into the episode only from a paid plan.
+
+### Layer 1: the flight. Duration: 7 seconds.
+
+```
+A long, smooth, airy whoosh that keeps accelerating: soft rushing wind that grows faster and higher in pitch, with a faint shimmering, glassy tone inside it, like flying upward through the night sky and out among the stars at rising speed. Wide, ethereal, cinematic, gentle.
+```
+
+### Layer 2: the arrival in the glow. Duration: 4 seconds.
+
+```
+A deep, warm, soft bloom of sound: the rushing air is swallowed into a low, round, humming tone with a gentle shimmer on top, which swells once and then settles into a calm, steady, quiet hum. Ethereal, warm, cinematic.
+```
+
+### Option B: one clip. Duration: 9 seconds.
+
+```
+A long, smooth, airy whoosh that keeps accelerating for six seconds: soft rushing wind growing faster and higher, with a faint shimmering, glassy tone, like flying up through the night sky and out among the stars. Then the rush is swallowed into a deep, warm, low humming bloom that swells once and settles into a calm, quiet hum. Wide, ethereal, cinematic, gentle.
+```
+
+### Placement on the timeline (SH130 starts at 0)
+
+- From the last second of SH120: the sirens and the street fade out into quiet wind.
+- 0 to 7 s (SH130 and SH140): Layer 1. Its fastest, highest point lands on the cut from SH140 to SH150.
+- 6.5 to 10.5 s (SH150 and into the first shot of E01-002): Layer 2. Its swell lands on the frame where the glow fills the picture, and its steady hum carries over the cut into the next scene.
+
+### What to check in the result
+
+- No engine, no rocket, no laser and no electronic beeps: it is air and tone only.
+- Layer 1 really accelerates; it is not an even wind.
+- Layer 2 ends on a steady hum that can be faded or held, not on a hit.
+- It sits under the piano without masking it.
 
 ---
 
@@ -567,3 +910,99 @@ Stylized 3D animation, clean smooth render, soft gradients. One continuous shot.
 - The amber is a trace at the center only. The frame reads as blue.
 - Nothing of the web shows: no threads, no knots, no sparks.
 - The gradient is smooth, without banding. Same 16:9 ratio and resolution as the other journey keyframes.
+
+---
+
+## E01-S002-SH010
+
+- **Scene:** E01-002, THE SPIRITUAL DIMENSION. The first shot inside: the full-frame glow thins like haze and the web is revealed.
+- **Shot list:** EWS; slow drift; 6 s. Fixed shot A of [spiritual-dimension](../../bible/locations/spiritual-dimension.md).
+- **First keyframe:** the last frame of the E01-S001-SH150 video, unchanged (the blue glow with the amber trace at its center).
+- **Last keyframe:** the master image of the web, below. Every other keyframe of the scene is derived from it.
+- **Video:** first and last frame; not written yet.
+- **Proposals, not yet approved (2026-11-22):** the master image has no sparks, so it serves both a video-model route and a compositing route; the nearest soul sits at the exact center of the frame, so the amber trace of the glow becomes that soul's ember when the haze thins.
+
+### Last keyframe = master image of the web (Nano Banana, with a reference image)
+
+Reference image: the first keyframe (the blue glow), for color only.
+
+```
+Use the attached image only as a color reference: keep its deep blue-black and its electric blue. Create a new image, 16:9.
+
+An extreme wide view of an endless web of light floating in deep blue-black space.
+
+The web is made of dozens of souls. Each soul is a dense, organic knot of thin threads of electric-blue light that converge on a core. A knot has no clean outline and is not a sphere. Deep inside each core there is one small, warm amber ember, half hidden behind the threads.
+
+The threads of every knot run on outward and become long, thin currents of blue light that join it to the knots around it, so that everything is connected into one web.
+
+All the souls are the same: the same size and the same brightness. A knot looks larger only because it is nearer to the camera. The nearest knot sits at the exact center of the frame and takes up about one sixth of the frame's width; the others spread around it, above it and far behind it, getting smaller with distance.
+
+The web runs on in every direction, to the sides, upward and into the depth, and dissolves into soft blue haze. It has no edge.
+
+In the lower fifth of the frame the web ends, and below it there is only deep, empty darkness.
+
+Light: there is no outside light source. All the light comes from the knots and the currents themselves, as a soft glow. The amber stays inside the cores and does not light the space: the image reads as blue.
+
+Style: stylized 3D animation, clean smooth forms, soft volumetric glow. No faces, no bodies, no eyes. No stars, no planets, no galaxies. No small sparks, no particles, no dust. No text. No lens flare, no film grain, no vignette.
+```
+
+### What to check in the result
+
+- The knots are organic tangles of threads, not spheres, not neurons with a face-like shape, not stars.
+- All knots have the same brightness; size changes only with distance.
+- Each core has an amber ember, small, and the image still reads as blue.
+- The currents really join the knots to each other.
+- The web fades into haze at the top and the sides, and there is darkness below.
+- No sparks or particles anywhere.
+- The blue matches the first keyframe.
+
+### Last keyframe with sparks (Nano Banana, as an edit of the master image)
+
+Author's decision (2026-11-22): the sparks already move in this shot, as part of the video, from the moment the souls are revealed. A video that ends on a frame without sparks would have to make them vanish, so the last keyframe of this shot is the master image with sparks added. The master image without sparks is kept as the base for the other shots.
+
+```
+Edit the attached image. Keep everything exactly as it is: the same knots, the same currents, the same colors, the same framing. Change nothing that already exists.
+
+Add only this: many tiny sparks travelling along the currents of light. Each spark is a very small point, whiter and brighter than the blue threads, with a short tail that shows its direction. The sparks travel in loose streams, like glowing dust, and they sit on the currents, never in the empty space between them.
+
+Two directions: some streams leave the knots and run downward along the currents, toward the darkness at the bottom of the frame; other streams rise from the darkness and run upward into the knots.
+
+All the sparks look alike. None is larger or brighter than the others. No sparks in the lower darkness away from the currents. No other change.
+```
+
+### Video (Seedance, first and last frame)
+
+First frame: the blue glow. Last frame: the master image with sparks.
+
+```
+Duration: 6 seconds.
+
+The first frame is a soft, deep blue glow that fills the whole picture, with a faint amber point at its center. The last frame is a wide view of an endless web of light: knots of blue threads joined by long currents, with tiny white-blue sparks travelling along the currents. This is one continuous shot from inside the glow: the glow is a haze, and as it thins, the web that was always behind it is revealed. It is not a cross-fade between two pictures.
+
+Camera: one very slow, steady drift forward for the whole shot. No turn, no shake, no cut.
+
+Second 0 to 1: the blue haze fills the frame and drifts slowly, like fine mist lit from inside.
+
+Second 1 to 4: the haze thins gradually and evenly. The knots appear first as soft, blurred patches of brighter blue inside the mist, then sharpen into tangles of thin threads, and the long currents between them come into view. The faint amber point at the center stays where it is and becomes the small ember inside the core of the knot at the center. The other knots show the same small amber ember in their cores.
+
+The sparks: from the first moment the currents can be seen, even while they are still blurred by the haze, the sparks are already moving along them. They are tiny points, whiter and brighter than the threads, each with a short tail, flowing in loose streams like glowing dust. Some streams leave the knots and run down along the currents into the darkness below the web. Other streams rise out of that darkness and run up into the knots. They move fast and smoothly, always along the currents, never across empty space. They never stop, and they are in full motion in the last frame.
+
+Second 4 to 6: the haze is gone, except far away, where the web still fades into soft blue mist. The web is fully clear. Its glow swells and eases very slowly, like breathing, while the sparks keep streaming quickly along the currents.
+
+The web itself is steady: the knots and the currents keep their places and their shapes. Nothing melts, merges, splits or drifts apart. All the knots keep the same size and the same brightness.
+
+Light: all the light comes from the web itself. The picture stays blue; the amber stays inside the cores. No flash, no burst, no white-out.
+
+No faces, no bodies, no eyes. No stars, no planets, no galaxies. No lightning bolts. No text.
+
+Sound: a low, warm, steady hum with a faint, soft electric shimmer. No music, no voices.
+```
+
+### What to check in the video
+
+- The web is revealed out of the haze; it does not look like a cross-fade.
+- The sparks are already moving while the haze is still thinning, and they are still moving in the last frame.
+- The sparks follow the currents, in both directions (down from the knots, up into the knots).
+- The knots and the currents stay in place; nothing melts or changes shape.
+- The amber point of the glow ends up inside the center knot.
+- No flash and no white-out: the BOOM belongs to E01-S002-SH050.

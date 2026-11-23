@@ -40,11 +40,11 @@ blue is reserved for sparks and the spiritual dimension, so no character wears i
 - **Characters:** none seen. Mike is voice only (V.O.). Emergency crews as silhouettes at most.
 - **Set contains:** a four-way intersection, wet asphalt, no traffic lights or signs (author 2026-11-18), streetlights.
   Dark, unbranded storefronts **(P)**. No pedestrians, no other traffic.
-- **Props and vehicles:** black luxury SUV (no other car is ever seen); police cruiser;
-  ambulance; broken glass on the asphalt.
+- **Props and vehicles:** black luxury SUV (no other car is ever seen); broken glass on the asphalt.
+  The police and ambulance are never seen: only their red and blue light and their sirens (author, 2026-11-18).
 - **Staging (author 2026-11-18):** the intersection is empty. The black SUV tumbles in from the lower-left street,
   already rolling over, and comes to rest on its roof in the middle of the intersection. The collision is never seen.
-  Windows opaque, so the interior is never visible. The cruiser and ambulance stop at the left edge of frame.
+  Windows opaque, so the interior is never visible. The emergency vehicles stay out of frame; their light comes from frame left.
 - **Light:** night, warm amber streetlight reflected in the wet road, then red and blue flashes.
 - **Sound:** silence, then the SUV tumbling in (no crash is heard before it appears), silence again while the last headlight flickers out, then distant sirens. V.O. only after the car has stopped.
 - **Continuity out:** the camera rises into the sky and keeps going, fast: out of the Earth, across the universe, to an
