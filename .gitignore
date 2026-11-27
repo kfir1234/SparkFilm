@@ -32,3 +32,4 @@ script/spark-full.fountain
 # OS / editor
 Thumbs.db
 .DS_Store
+*.lnk
